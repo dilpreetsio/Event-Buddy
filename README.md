@@ -1,8 +1,12 @@
 # hackathonlist
 
-> Crowd-sourced hackathons listing application
+Crowd-sourced hackathons listing application
 
-## Build Setup
+## How to add hackathon to the application
+
+Add the hackathon details in hacks.json locaated at `data/hacks.json`
+
+## How to setup the project?
 
 ``` bash
 # install dependencies

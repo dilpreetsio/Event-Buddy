@@ -1,27 +1,27 @@
 <template>
-  <div class="hello">
-    {{msg}}
-    <div class="" v-for='hack in hacks'>
+  <div class="hello ui container">
+    <div class="ui segment" v-for='hack in hacks'>
       {{hack.name}}
     </div>
   </div>
 </template>
 
 <script>
+import hacks from '../../data/hacks.json'
+
 export default {
   name: 'hello',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App',
-      hacks: [
-        {
-          name: 'hack1'
-        },
-        {
-          name: 'hack2'
-        }
-      ]
+      hacks: hacks
     }
+  },
+  created: function () {
+    fetch('/a.json')
+      .then(r => r.json())
+      .then(json => {
+        this.json = json
+      })
   }
 }
 </script>
