@@ -1,6 +1,6 @@
 # hackathonlist
 
-> lists all the hackathons
+> Crowd-sourced hackathons listing application
 
 ## Build Setup
 
