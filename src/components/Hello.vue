@@ -1,7 +1,12 @@
 <template>
-  <div class="hello ui container">
-    <div class="ui segment" v-for='hack in hacks'>
-      {{hack.name}}
+  <div class="root">
+    <div class="header ui row" style="background-color:#113d6b; color:white">
+      <h1>HackathonList</h1>
+    </div>
+    <div class="ui container">
+      <div class="ui segment" v-for='hack in hacks'>
+        {{hack.name}}
+      </div>
     </div>
   </div>
 </template>
@@ -10,7 +15,7 @@
 import hacks from '../../data/hacks.json'
 
 export default {
-  name: 'hello',
+  name: 'root',
   data () {
     return {
       hacks: hacks
