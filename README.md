@@ -1,8 +1,8 @@
-# hackathonlist
+# Hackathonlist
 
-Crowd-sourced hackathons listing application
+Lists all major hackathons at one place. This application is Crowd-sourced.
 
-## How to add hackathon to the application
+## Is there any hackathon not listed ?
 
 Add the hackathon details in hacks.json locaated at `data/hacks.json`
 
