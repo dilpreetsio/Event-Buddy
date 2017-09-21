@@ -3,13 +3,24 @@
     "name"     : "Inout",
     "start"    : "October 7, 2017",
     "end"      : "October 8, 2017",
-    "location" : "Bangalore",
-    "website"  : "https://hackinout.co/"
+    "location" : "Bangalore, India",
+    "website"  : "https://hackinout.co/",
+    "logo"     : ""
   },
   {
-    "name" : "DTU Hacks",
-    "start": "October 7, 2017",
-    "end"  : "October 8, 2017",
-    "location" : "Delhi"
+    "name" : "HackMIT",
+    "start": "September 16, 2017",
+    "end"  : "September 17, 2017",
+    "location" : "Massachusetts, USA",
+    "website"  : "https://hackmit.org/",
+    "logo"     : ""
+  },
+  {
+    "name" : "JetBrains Annual Hackathon",
+    "start": "May 31, 2017",
+    "end"  : "June 2, 2017",
+    "location" : "Massachusetts, USA",
+    "website"  : "https://blog.jetbrains.com/blog/tag/hackathon/",
+    "logo"     : ""
   }
 ]
