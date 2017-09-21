@@ -4,17 +4,17 @@
       <h1>HackathonList</h1>
     </div>
     <div class="ui container">
-      <div class="ui segment" v-for='hack in hacks'>
-        {{hack.name}}
-      </div>
+      <hack v-for='hackathon in hacks' :hack="hackathon" :key="hackathon.name"></hack>
     </div>
   </div>
 </template>
 
 <script>
 import hacks from '../../data/hacks.json'
+import Hack from './hack.vue'
 
 export default {
+  Hack,
   name: 'root',
   data () {
     return {
@@ -31,7 +31,6 @@ export default {
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 h1, h2 {
   font-weight: normal;
