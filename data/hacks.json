@@ -47,4 +47,12 @@
     "website" : "https://codingdavinci.de/",
     "logo" : "https://pbs.twimg.com/profile_images/444127683610300416/97om7wQ__400x400.png"
   }
+   {
+    "name" : "HackHarvard",
+    "start": "21/10/2017",
+    "end"  : "23/10/2017",
+    "location" : "Cambridge, MA, USA",
+    "website"  : "http://hackharvard.io/",
+    "logo"     : "http://hackharvard.io/images/HH_2017_logo_white_shadow.png"
+  }
 ]
