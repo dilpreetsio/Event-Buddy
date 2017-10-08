@@ -1,26 +1,26 @@
 [
   {
     "name"     : "Inout",
-    "start"    : "October 7, 2017",
-    "end"      : "October 8, 2017",
+    "start"    : "07/10/2017",
+    "end"      : "08/10/2017",
     "location" : "Bangalore, India",
     "website"  : "https://hackinout.co/",
-    "logo"     : ""
+    "logo"     : "https://hackinout.co/assets/img/logo.png"
   },
   {
     "name" : "HackMIT",
-    "start": "September 16, 2017",
-    "end"  : "September 17, 2017",
+    "start": "16/09/2017",
+    "end"  : "17/09/2017",
     "location" : "Massachusetts, USA",
     "website"  : "https://hackmit.org/",
-    "logo"     : ""
+    "logo"     : "http://connectocean.com/files/MIT-Logo.png"
   },
   {
     "name" : "JetBrains Annual Hackathon",
-    "start": "May 31, 2017",
-    "end"  : "June 2, 2017",
+    "start": "31/05/2017",
+    "end"  : "02/06/2017",
     "location" : "Massachusetts, USA",
     "website"  : "https://blog.jetbrains.com/blog/tag/hackathon/",
-    "logo"     : ""
+    "logo"     : "https://www.microway.com.au/catalog/jetbrains/images/jetbrains-logo-852x875.jpg"
   }
 ]

@@ -1,40 +1,53 @@
 <template>
   <div class="root">
-    <div class="header ui row" style="background-color:#113d6b; color:white">
-      <h1>HackathonList</h1>
-    </div>
+    <header-component></header-component>
     <div class="ui container">
-      <h2 class="ui header">
-        Hackathons
-      </h2>
-      <hack v-for='hackathon in hacks' :hack="hackathon" :key="hackathon.name"></hack>
+      <div class="hackathons list">
+        <h2 class="ui header">
+          Hackathons
+        </h2>
+        <item v-for='hackathon in hacks' :event="hackathon" :key="hackathon.name"></item>
+      </div>
+      <div class="conferences list">
+        <h2 class="ui header">
+          Conferences
+        </h2>
+        <item v-for='conference in conferences' :event="conference" :key="conference.name"></item>
+      </div>
+      <div class="startups list">
+        <h2 class="ui header">
+          Startup Events
+        </h2>
+        <item v-for='startup in startups' :event="startup" :key="startup.name"></item>
+      </div>
     </div>
+    <footer-component></footer-component>
   </div>
 </template>
-
 <script>
 import hacks from '../../data/hacks.json'
-import Hack from './hack.vue'
+import conferences from '../../data/conferences.json'
+import startups from '../../data/start-up.json'
+import Item from './item.vue'
+import Header from './header.vue'
+import Footer from './footer.vue'
 
 export default {
-  Hack,
+  Header,
+  Footer,
+  Item,
   name: 'root',
   data () {
     return {
-      hacks: hacks
+      hacks: this._.orderBy(hacks, 'start', 'desc'),
+      conferences: this._.orderBy(conferences, 'start', 'desc'),
+      startups: this._.orderBy(startups, 'start', 'desc')
     }
-  },
-  created: function () {
-    fetch('/a.json')
-      .then(r => r.json())
-      .then(json => {
-        this.json = json
-      })
   }
 }
 </script>
 <style scoped>
-  .header.ui.row {
-    text-align: center;
-  }
+.list {
+  margin-top: 15px;
+}
 </style>

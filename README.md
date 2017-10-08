@@ -1,10 +1,27 @@
-# Hackathonlist
+# Event Buddy
 
-Lists all major hackathons at one place. This application is Crowd-sourced.
+Lists all major hackathons, Conferences & Start-up Events at one place. This application is Crowd-sourced.
 
-## Is there any hackathon not listed ?
+## Is there any event that is missing ?
 
-Add the hackathon details in hacks.json locaated at `data/hacks.json`
+Add the Hackathons to hacks.json located at `data/hacks.json`
+Add the Conferences to hacks.json located at `data/hacks.json`
+Add the Start-up events to hacks.json located at `data/hacks.json`
+
+## JSON format
+
+The JSON format of the an event in all JSON files
+
+```
+{
+  "name"     : "Name of the event",
+  "start"    : "dd/mm/yyyy",
+  "end"      : "dd/mm/yyyy",
+  "location" : "City, Country",
+  "website"  : "URL of website",
+  "logo"     : "URL of image"
+}
+```
 
 ## How to setup the project?
 

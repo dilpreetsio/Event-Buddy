@@ -1,8 +1,10 @@
 [
   {
-    "name"     : "Inout",
+    "name"     : "JSFoo",
+    "start"    : "15/09/2017",
+    "end"      : "16/09/2017",
     "location" : "Bangalore, India",
-    "website"  : "https://hackinout.co/",
-    "logo"     : ""
+    "website"  : "https://jsfoo.in/",
+    "logo"     : "https://jsfoo.in/_themes/jsfoo2012/img/jslogo.png"
   }
 ]
