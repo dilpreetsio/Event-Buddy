@@ -4,6 +4,9 @@
       <h1>HackathonList</h1>
     </div>
     <div class="ui container">
+      <h2 class="ui header">
+        Hackathons
+      </h2>
       <hack v-for='hackathon in hacks' :hack="hackathon" :key="hackathon.name"></hack>
     </div>
   </div>
