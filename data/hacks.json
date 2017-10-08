@@ -7,6 +7,14 @@
     "website"  : "https://hackinout.co/",
     "logo"     : "https://hackinout.co/assets/img/logo.png"
   },
+    {
+    "name" : "Hack the North",
+    "start": "15/09/2017",
+    "end"  : "17/09/2017",
+    "location" : "Ontario, CA",
+    "website"  : "https://hackthenorth.com/",
+    "logo"     : "https://2014.hackthenorth.com/img/logo.png"
+  },
   {
     "name" : "HackMIT",
     "start": "16/09/2017",
@@ -22,5 +30,13 @@
     "location" : "Massachusetts, USA",
     "website"  : "https://blog.jetbrains.com/blog/tag/hackathon/",
     "logo"     : "https://www.microway.com.au/catalog/jetbrains/images/jetbrains-logo-852x875.jpg"
+  },
+  {
+    "name" : "WilHacks",
+    "start": "13/10/2017",
+    "end"  : "14/10/2017",
+    "location" : "Santa Clara, CA, USA",
+    "website"  : "http://wilhacks.com/",
+    "logo"     : "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/000/529/752/datas/full_width.png"
   }
 ]
