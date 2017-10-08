@@ -1,12 +1,12 @@
 # Event Buddy
 
-Lists all major hackathons, Conferences & Start-up Events at one place. This application is Crowd-sourced.
+Lists all major Hackathons, Conferences & Start-up Events at one place. The purpose of this app is to provide information to every enthusiast. Contribute by sharing events around you to help others.
 
 ## Is there any event that is missing ?
 
 Add the Hackathons to hacks.json located at `data/hacks.json`
-Add the Conferences to hacks.json located at `data/hacks.json`
-Add the Start-up events to hacks.json located at `data/hacks.json`
+Add the Conferences to conferences.json located at `data/conferences.json`
+Add the Start-up events to start-up.json located at `data/start-up.json`
 
 ## JSON format
 
@@ -29,23 +29,10 @@ The JSON format of the an event in all JSON files
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve at localhost:8080
 npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Maintainer
+
+This project is maintainer by [geekyd](https://github.com/geekyd)
