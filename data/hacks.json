@@ -38,5 +38,13 @@
     "location" : "Santa Clara, CA, USA",
     "website"  : "http://wilhacks.com/",
     "logo"     : "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/000/529/752/datas/full_width.png"
+  },
+  {
+    "name" : "Coding Da Vinci",
+    "start" : "21/10/2017",
+    "end" : "02/12/2017",
+    "location" : "Berlin, BE, Germany",
+    "website" : "https://codingdavinci.de/",
+    "logo" : "https://pbs.twimg.com/profile_images/444127683610300416/97om7wQ__400x400.png"
   }
 ]

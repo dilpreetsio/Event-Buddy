@@ -6,5 +6,13 @@
     "location" : "Bangalore, India",
     "website"  : "https://jsfoo.in/",
     "logo"     : "https://jsfoo.in/_themes/jsfoo2012/img/jslogo.png"
+  },
+  {
+    "name"	: "34. Chaos Communication Congress",
+    "start"	: "27/12/2017",
+    "end"	: "30/12/2017",
+    "location"	: "Leipzig, SA, Germany",
+    "website"	: "https://events.ccc.de/",
+    "logo"	: "https://www.apertus.org/sites/default/files/34c3.jpg"
   }
 ]
