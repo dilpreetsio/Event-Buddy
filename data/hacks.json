@@ -39,4 +39,12 @@
     "website"  : "http://wilhacks.com/",
     "logo"     : "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/000/529/752/datas/full_width.png"
   }
+   {
+    "name" : "HackHarvard",
+    "start": "21/10/2017",
+    "end"  : "23/10/2017",
+    "location" : "Cambridge, MA, USA",
+    "website"  : "http://hackharvard.io/",
+    "logo"     : "http://hackharvard.io/images/HH_2017_logo_white_shadow.png"
+  }
 ]
