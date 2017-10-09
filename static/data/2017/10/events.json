@@ -52,5 +52,14 @@
     "type"     : "hackathon",
     "website"  : "https://inventyu2017.github.io/",
     "logo"     : "https://pbs.twimg.com/profile_images/908045403047596032/DhxLrllW.jpg"
+  },
+  {
+    "name"  : "INVENTYU 2017",
+    "start" : "28/10/2017",
+    "end"   : "29/10/2017",
+    "location"  : "LONDON",
+    "type"  : "hackathon",
+    "website" : "https://www.eventbrite.com/e/inventyu-2017-tickets-38015477316",
+    "logo"  : "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F35534264%2F227182136412%2F1%2Foriginal.jpg?w=800&rect=110%2C0%2C630%2C315&s=c2f9bbe8cbba37feab61079da38302b1"
   }
 ]
