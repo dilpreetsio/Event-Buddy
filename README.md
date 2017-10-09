@@ -4,9 +4,7 @@ Lists all major Hackathons, Conferences & Start-up Events at one place. The purp
 
 ## Is there any event that is missing ?
 
-Add the Hackathons to hacks.json located at `data/hacks.json`
-Add the Conferences to conferences.json located at `data/conferences.json`
-Add the Start-up events to start-up.json located at `data/start-up.json`
+Add a missing event at `static/data/year/month/events.json`
 
 ## JSON format
 
@@ -18,6 +16,7 @@ The JSON format of the an event in all JSON files
   "start"    : "dd/mm/yyyy",
   "end"      : "dd/mm/yyyy",
   "location" : "City, Country",
+  "type"     : "hackathon || startup || conference"
   "website"  : "URL of website",
   "logo"     : "URL of image"
 }
