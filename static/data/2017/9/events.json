@@ -1,0 +1,38 @@
+[
+  {
+    "name" : "Hack the North",
+    "start": "15/09/2017",
+    "end"  : "17/09/2017",
+    "location" : "Ontario, CA",
+    "type" : "hackathon",
+    "website"  : "https://hackthenorth.com/",
+    "logo"     : "https://2014.hackthenorth.com/img/logo.png"
+  },
+  {
+    "name" : "HackMIT",
+    "start": "16/09/2017",
+    "end"  : "17/09/2017",
+    "location" : "Massachusetts, USA",
+    "type" : "hackathon",
+    "website"  : "https://hackmit.org/",
+    "logo"     : "http://connectocean.com/files/MIT-Logo.png"
+  },
+  {
+    "name"     : "JSFoo",
+    "start"    : "15/09/2017",
+    "end"      : "16/09/2017",
+    "location" : "Bangalore, India",
+    "type"     : "conference",
+    "website"  : "https://jsfoo.in/",
+    "logo"     : "https://jsfoo.in/_themes/jsfoo2012/img/jslogo.png"
+  },
+  {
+    "name"     : "Techsparks",
+    "start"    : "22/09/2017",
+    "end"      : "23/09/2017",
+    "location" : "Bangalore, India",
+    "type"     : "startup",
+    "website"  : "https://techsparks.yourstory.com/",
+    "logo"     : "https://lh3.googleusercontent.com/_qU6bzo9L8nU9hwLmZEc1NAj077FVwL6C2SlTsZrCkVNaqVrqWUi9gUvPiLGqYqpeas=w300"
+  }
+]

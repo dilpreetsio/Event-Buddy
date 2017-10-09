@@ -1,4 +1,5 @@
 import Vue from 'vue'
+import VueFetch from 'vue-fetch'
 import App from './App'
 import lodash from 'lodash'
 import VueLodash from 'vue-lodash'
@@ -11,6 +12,7 @@ import router from './router'
 Vue.config.productionTip = false
 
 Vue.use(VueLodash, lodash)
+Vue.use(VueFetch)
 
 Vue.component('header-component', Header)
 Vue.component('footer-component', Footer)

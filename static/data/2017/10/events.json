@@ -1,41 +1,28 @@
 [
   {
+    "name"     : "Start-up Istanbul",
+    "start"    : "20/10/2017",
+    "end"      : "23/10/2017",
+    "location" : "Istanbul, Turkey",
+    "type"     : "startup",
+    "website"  : "https://startupistanbul.com/",
+    "logo"     : ""
+  },
+  {
     "name"     : "Inout",
     "start"    : "07/10/2017",
     "end"      : "08/10/2017",
     "location" : "Bangalore, India",
+    "type"     : "hackathon",
     "website"  : "https://hackinout.co/",
     "logo"     : "https://hackinout.co/assets/img/logo.png"
-  },
-    {
-    "name" : "Hack the North",
-    "start": "15/09/2017",
-    "end"  : "17/09/2017",
-    "location" : "Ontario, CA",
-    "website"  : "https://hackthenorth.com/",
-    "logo"     : "https://2014.hackthenorth.com/img/logo.png"
-  },
-  {
-    "name" : "HackMIT",
-    "start": "16/09/2017",
-    "end"  : "17/09/2017",
-    "location" : "Massachusetts, USA",
-    "website"  : "https://hackmit.org/",
-    "logo"     : "http://connectocean.com/files/MIT-Logo.png"
-  },
-  {
-    "name" : "JetBrains Annual Hackathon",
-    "start": "31/05/2017",
-    "end"  : "02/06/2017",
-    "location" : "Massachusetts, USA",
-    "website"  : "https://blog.jetbrains.com/blog/tag/hackathon/",
-    "logo"     : "https://www.microway.com.au/catalog/jetbrains/images/jetbrains-logo-852x875.jpg"
   },
   {
     "name" : "WilHacks",
     "start": "13/10/2017",
     "end"  : "14/10/2017",
     "location" : "Santa Clara, CA, USA",
+    "type"     : "hackathon",
     "website"  : "http://wilhacks.com/",
     "logo"     : "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/000/529/752/datas/full_width.png"
   },
@@ -44,14 +31,16 @@
     "start" : "21/10/2017",
     "end" : "02/12/2017",
     "location" : "Berlin, BE, Germany",
+    "type"     : "hackathon",
     "website" : "https://codingdavinci.de/",
     "logo" : "https://pbs.twimg.com/profile_images/444127683610300416/97om7wQ__400x400.png"
-  }
+  },
    {
     "name" : "HackHarvard",
     "start": "21/10/2017",
     "end"  : "23/10/2017",
     "location" : "Cambridge, MA, USA",
+    "type"     : "hackathon",
     "website"  : "http://hackharvard.io/",
     "logo"     : "http://hackharvard.io/images/HH_2017_logo_white_shadow.png"
   }
