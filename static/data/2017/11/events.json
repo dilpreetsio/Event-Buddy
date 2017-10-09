@@ -7,5 +7,68 @@
     "type": "hackathon",
     "website": "https://www.eventbrite.com/e/arvr-hackathon-tickets-38194116631?aff=nyhackathons",
     "logo": ""
+  },
+  {
+    "name": "Hack AE",
+    "start": "04/11/2017",
+    "end": "05/11/2017",
+    "location": "Lowell, MA, USA",
+    "type": "hackathon",
+    "website": "http://theaeac.org/events/hackae/",
+    "logo": "http://theaeac.org/wp-content/uploads/2016/04/hackathon_17_web.jpg"
+  },
+  {
+    "name": "Wild Hacks",
+    "start": "03/11/2017",
+    "end": "05/11/2017",
+    "location": "Lowell, MA, USA",
+    "type": "hackathon",
+    "website": "https://wildhacks.org/",
+    "logo": "https://pbs.twimg.com/profile_images/604398291497787392/PdMPLq--.png"
+  },
+  {
+    "name": "HealthHacks",
+    "start": "04/11/2017",
+    "end": "05/11/2017",
+    "location": "Richmond, VA, USA",
+    "type": "hackathon",
+    "website": "https://healthhacks.vcu.edu/",
+    "logo": ""
+  },
+  {
+    "name": "HackPrinceton",
+    "start": "10/11/2017",
+    "end": "12/11/2017",
+    "location": "Princeton, NJ, USA",
+    "type": "hackathon",
+    "website": "https://hackprinceton.com/",
+    "logo": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/000/182/649/datas/original.png"
+  },
+  {
+    "name": "Hackital",
+    "start": "11/11/2017",
+    "end": "12/11/2017",
+    "location": "Washington, DC, USA",
+    "type": "hackathon",
+    "website": "http://hackital.io/",
+    "logo": "https://pbs.twimg.com/profile_images/843331021928062980/DnYMuDWh.jpg"
+  },
+  {
+    "name": "Hack Western IV",
+    "start": "17/11/2017",
+    "end": "19/11/2017",
+    "location": "London, Ontario, Canada",
+    "type": "hackathon",
+    "website": "https://hackwestern.com/",
+    "logo": "https://pbs.twimg.com/profile_images/746447251749249024/uKHKeZyQ.jpg"
+  },
+  {
+    "name": "HackKing's",
+    "start": "25/11/2017",
+    "end": "26/11/2017",
+    "location": "London, United Kingdom",
+    "type": "hackathon",
+    "website": "http://hackkings.org/",
+    "logo": "http://hackkings.org/assets/css/images/hackkingslogo.svg"
   }
 ]

@@ -7,5 +7,14 @@
     "type"     : "conference",
     "website"	: "https://events.ccc.de/",
     "logo"	: "https://www.apertus.org/sites/default/files/34c3.jpg"
+  },
+  {
+  	"name"	: "Disrupt Berlin",
+  	"start"	: "4/12/2017",
+  	"end"	: "5/12/2017",
+  	"location"	: "Berlin, Germany",
+  	"type"	: "hackathon",
+  	"website" : "https://techcrunch.com/event-type/disrupt/",
+  	"logo"	:	"https://tctechcrunch2011.files.wordpress.com/2017/10/disrupt_berlin_17_466x269.png?w=405&h=253&crop=1"
   }
 ]
