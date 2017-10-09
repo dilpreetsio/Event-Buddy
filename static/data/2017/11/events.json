@@ -52,5 +52,14 @@
     "type": "hackathon",
     "website": "https://hackwestern.com/",
     "logo": "https://pbs.twimg.com/profile_images/746447251749249024/uKHKeZyQ.jpg"
+  },
+  {
+    "name": "HackKing's",
+    "start": "25/11/2017",
+    "end": "26/11/2017",
+    "location": "London, United Kingdom",
+    "type": "hackathon",
+    "website": "http://hackkings.org/",
+    "logo": "http://hackkings.org/assets/css/images/hackkingslogo.svg"
   }
 ]
