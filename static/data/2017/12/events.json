@@ -16,5 +16,14 @@
   	"type"	: "hackathon",
   	"website" : "https://techcrunch.com/event-type/disrupt/",
   	"logo"	:	"https://tctechcrunch2011.files.wordpress.com/2017/10/disrupt_berlin_17_466x269.png?w=405&h=253&crop=1"
+  },
+  {
+  	"name"	: "The Rich Web Experience",
+  	"start"	: "5/12/2017",
+  	"end"	: "8/12/2017",
+  	"location"	: "Clearwater, FL, USA",
+  	"type"	: "conference",
+  	"website" : "https://therichwebexperience.com",
+  	"logo"	:	""
   }
 ]
