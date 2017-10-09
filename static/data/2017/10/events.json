@@ -35,7 +35,7 @@
     "website" : "https://codingdavinci.de/",
     "logo" : "https://pbs.twimg.com/profile_images/444127683610300416/97om7wQ__400x400.png"
   },
-   {
+  {
     "name" : "HackHarvard",
     "start": "21/10/2017",
     "end"  : "23/10/2017",
@@ -43,5 +43,14 @@
     "type"     : "hackathon",
     "website"  : "http://hackharvard.io/",
     "logo"     : "http://hackharvard.io/images/HH_2017_logo_white_shadow.png"
+  },
+  {
+    "name" : "InventYU",
+    "start": "28/10/2017",
+    "end"  : "29/10/2017",
+    "location" : "New York, NY, USA",
+    "type"     : "hackathon",
+    "website"  : "https://inventyu2017.github.io/",
+    "logo"     : "https://pbs.twimg.com/profile_images/908045403047596032/DhxLrllW.jpg"
   }
 ]
