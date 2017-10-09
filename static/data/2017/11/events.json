@@ -1,5 +1,14 @@
 [
   {
+    "name"  : "CEEHACKS Smart Energy Hackathon Prague 2017",
+    "start" : "3/11/2017",
+    "end" : "5/11/2017",
+    "location"  : "Prague, Czech",
+    "type"  : "hackathon",
+    "website" : "http://www.ceehacks.com/",
+    "logo"  : "http://www.ceehacks.com/wp-content/uploads/logo-2.png"
+  },
+  {
     "name": "Hack AE",
     "start": "04/11/2017",
     "end": "05/11/2017",
@@ -61,5 +70,5 @@
     "type": "hackathon",
     "website": "http://hackkings.org/",
     "logo": "http://hackkings.org/assets/css/images/hackkingslogo.svg"
-  }
+  },
 ]
