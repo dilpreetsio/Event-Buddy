@@ -45,6 +45,42 @@
     "logo"     : "http://hackharvard.io/images/HH_2017_logo_white_shadow.png"
   },
   {
+    "name" : "Protothon",
+    "start": "13/10/2017",
+    "end"  : "14/10/2017",
+    "location" : "New York, NY, USA",
+    "type"     : "hackathon",
+    "website"  : "https://www.eventbrite.com/e/protothon-a-15-hour-design-thinking-prototyping-competitive-event-registration-36253872308",
+    "logo"     : "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F33339392%2F219988551352%2F1%2Foriginal.jpg?w=800&rect=99%2C0%2C630%2C315&s=474e65fa966b6950ed97027eadfb818a"
+  },
+  {
+    "name" : "hackNY",
+    "start": "14/10/2017",
+    "end"  : "15/10/2017",
+    "location" : "New York, NY, USA",
+    "type"     : "hackathon",
+    "website"  : "http://hackny.org/hackathon/",
+    "logo"     : "http://hackny.org/wordpress/wp-content/uploads/2015/11/hackNY-Logo-Small-Sharp.png"
+  },
+   {
+    "name" : "Hack Human",
+    "start": "20/10/2017",
+    "end"  : "21/10/2017",
+    "location" : "New York, NY, USA",
+    "type"     : "hackathon",
+    "website"  : "https://www.illicitmind.com/hackathon-Hack%20Human/",
+    "logo": ""
+  },
+  {
+    "name" : "Hack Trash NYC",
+    "start": "27/10/2017",
+    "end"  : "29/10/2017",
+    "location" : "New York, NY, USA",
+    "type"     : "hackathon",
+    "website": "http://www.hacktrash.nyc/",
+    "logo"  : "http://static1.squarespace.com/static/57a003a815d5dbfa9f1f7c94/t/59b96ff7edaed8d5d4ec3f3e/1507315498656/?format=1500w"
+  },
+  {
     "name" : "InventYU",
     "start": "28/10/2017",
     "end"  : "29/10/2017",

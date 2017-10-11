@@ -54,6 +54,15 @@
     "logo": "https://pbs.twimg.com/profile_images/843331021928062980/DnYMuDWh.jpg"
   },
   {
+    "name": "LauzHack",
+    "start": "11/11/2017",
+    "end": "12/11/2017",
+    "location": "Lausanne, Switzerland",
+    "type": "hackathon",
+    "website": "http://lauzhack.com/",
+    "logo": "http://lauzhack.com/images/logo.png"
+  },
+  {
     "name": "Hack Western IV",
     "start": "17/11/2017",
     "end": "19/11/2017",
@@ -61,6 +70,15 @@
     "type": "hackathon",
     "website": "https://hackwestern.com/",
     "logo": "https://pbs.twimg.com/profile_images/746447251749249024/uKHKeZyQ.jpg"
+  },
+  {
+    "name": "Yacathon",
+    "start": "17/11/2017",
+    "end": "19/11/2017",
+    "location": "London, United Kingdom",
+    "type": "hackathon",
+    "website": "https://www.eventbrite.co.uk/e/yacathon-tickets-38535140643",
+    "logo": ""
   },
   {
     "name": "HackKing's",
