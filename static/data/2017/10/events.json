@@ -115,5 +115,23 @@
     "type"  : "hackathon",
     "website" : "https://www.eventbrite.com/e/hackernest-seattle-october-tech-social-tickets-37431164621?aff=es2",
     "logo"  : "http://hackernest.com/wp-content/uploads/2017/06/HackerNest-logo-Nov-2015.png"
+  },
+  {
+    "name"  : "Atmos 17 Workshop",
+    "start" : "27/10/2017",
+    "end"   : "29/10/2017",
+    "location"  : "Hyderabad, India",
+    "type"  : "conference",
+    "website" : "https://www.townscript.com/e/atmos-workshops-413303",
+    "logo"  : "https://www.bits-atmos.org/static/images/logo.png"
+  },
+  {
+    "name"  : "Open Source India",
+    "start" : "13/10/2017",
+    "end"   : "14/10/2017",
+    "location"  : "Bangalore, India",
+    "type"  : "conference",
+    "website" : "https://opensourceindia.in/osidays/",
+    "logo"  : ""
   }
 ]
