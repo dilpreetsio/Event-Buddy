@@ -43,5 +43,14 @@
     "type"     : "hackathon",
     "website"  : "https://trueface.devpost.com/",
     "logo"     : "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/000/525/606/datas/full_width.jpg"
+  },
+  {
+    "name"     : "React Alicante 2017",
+    "start"    : "28/09/2017",
+    "end"      : "30/09/2017",
+    "location" : "Alicante, Spain",
+    "type"     : "conference",
+    "website"  : "http://reactalicante.es/",
+    "logo"     : "https://pbs.twimg.com/profile_images/906151350588887040/XC5RD0t-_400x400.jpg"
   }
 ]
