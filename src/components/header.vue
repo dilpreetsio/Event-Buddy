@@ -1,6 +1,5 @@
 <template>
   <div class="header ui row">
-    <!-- <h1>Event Buddy</h1> -->
     <img class="logo" src="../assets/logo.png">
   </div>
 </template>
