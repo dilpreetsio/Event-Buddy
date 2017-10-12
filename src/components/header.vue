@@ -10,7 +10,6 @@ export default {
 <style scoped>
 .header.ui.row {
   text-align: center;
-  background-color: #fff;
   color: white !important;
   margin-bottom: 0 !important;
   padding: 30px 0;
