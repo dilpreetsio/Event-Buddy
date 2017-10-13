@@ -88,5 +88,14 @@
     "type": "hackathon",
     "website": "http://hackkings.org/",
     "logo": "http://hackkings.org/assets/css/images/hackkingslogo.svg"
+  },
+  {
+    "name"  : "Digital Bank LA",
+    "start" : "14/11/2017",
+    "end"   : "14/11/2017",
+    "location"  : "Buenos aires, Argentina",
+    "type"  : "hackathon",
+    "website" : "http://www.digitalbankla.com/argentina/",
+    "logo"  : ""
   }
 ]
