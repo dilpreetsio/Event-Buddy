@@ -2,6 +2,11 @@
   <div class="header ui row">
     <img class="logo" src="../assets/logo.png">
     <div class="month ui row">{{month}}</div>
+    <ul>
+      <li><a href="#hackatons">Hackatons</a></li>
+      <li><a href="#conferences">Conferences</a></li>
+      <li><a href="#startups">Startup Events</a></li>
+    </ul>
   </div>
 </template>
 <script>
@@ -29,6 +34,17 @@ export default {
 .header .logo {
   height: 50px;
   width: auto;
+}
+
+.header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.header ul li {
+  display: inline;
+  padding: 0 5px;
 }
 
 .month {
