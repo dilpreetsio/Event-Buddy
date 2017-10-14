@@ -2,7 +2,7 @@
   <div class="root">
     <header-component></header-component>
     <div class="ui container">
-      <div class="hackathons list">
+      <div id="hackatons" class="hackathons list">
         <h2 class="ui header">
           Hackathons
         </h2>
@@ -11,7 +11,7 @@
           <b>No hackathons? Is there something that we are missing? Please add a hackathon for this month <a href="https://github.com/geekyd/Event-Buddy">here</a></b>
         </div>
       </div>
-      <div class="conferences list">
+      <div id="conferences" class="conferences list">
         <h2 class="ui header">
           Conferences
         </h2>
@@ -20,7 +20,7 @@
           <b>No conferences? Is there something that we are missing? Please add a conference for this month <a href="https://github.com/geekyd/Event-Buddy">here</a></b>
         </div>
       </div>
-      <div class="startups list">
+      <div id="startups" class="startups list">
         <h2 class="ui header">
           Startup Events
         </h2>
