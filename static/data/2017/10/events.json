@@ -133,5 +133,14 @@
     "type"  : "conference",
     "website" : "https://opensourceindia.in/osidays/",
     "logo"  : ""
+  },
+  {
+    "name": "NodeConf Argentina",
+    "start": "26/10/2017",
+    "end": "28/10/2017",
+    "location": "Buenos Aires, Argentina",
+    "type": "conference",
+    "website": "https://2017.nodeconf.com.ar/",
+    "logo": ""
   }
 ]
