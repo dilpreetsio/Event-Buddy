@@ -58,7 +58,7 @@ export default {
           var group = this._.groupBy(data, 'type')
           this.hacks = this._.orderBy(group.hackathon, 'start')
           this.startups = this._.orderBy(group.startup, 'start')
-          this.conferences = this._.orderBy(group.conferences, 'start')
+          this.conferences = this._.orderBy(group.conference, 'start')
         })
       })
     }
