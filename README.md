@@ -34,4 +34,4 @@ npm run dev
 
 ## Maintainer
 
-This project is maintainer by [geekyd](https://github.com/geekyd)
+This project is maintained by [geekyd](https://github.com/geekyd)
