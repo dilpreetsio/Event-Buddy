@@ -1,7 +1,7 @@
 <template>
   <div class="gh-buttons">
-    <iframe src="https://ghbtns.com/github-btn.html?user=geekyd&repo=Event-Buddy&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>
-    <iframe src="https://ghbtns.com/github-btn.html?user=geekyd&repo=Event-Buddy&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+    <a class="github-button" href="https://github.com/geekyd/Event-Buddy" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star geekyd/Event-Buddy on GitHub">Star</a>
+    <a class="github-button" href="https://github.com/geekyd/Event-Buddy/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork geekyd/Event-Buddy on GitHub">Fork</a>
   </div>
 </template>
 <script>
