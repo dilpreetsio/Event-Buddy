@@ -25,5 +25,14 @@
   	"type"	: "conference",
   	"website" : "https://therichwebexperience.com",
   	"logo"	:	""
-  }
+	},
+	{
+		"name": "NationJS 2017",
+		"start": "01/12/2017",
+		"end": "01/12/2017",
+		"location": "Washington, DC, USA",
+		"type": "conference",
+		"website": "http://nationjs.com/",
+		"logo": "http://nationjs.com/assets/nationjs/2017/conference/nationjs-logo-grey-92038a8da6743ba2a602e526b6cca11fae3fa6c4a85074219e2342c5dda4a42e.png"
+	}
 ]
