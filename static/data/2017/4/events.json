@@ -8,4 +8,14 @@
     "website"  : "https://www.launchfestival.com/",
     "logo"     : "https://static1.squarespace.com/static/582f4a63c534a561008e64b7/t/585aca34cd0f681882008d16/1492963748800/?format=1500w"
   }
+  {
+    "name"     : "Cyber Sristi JIIT",
+    "start"    : "22/04/2017",
+    "end"      : "23/04/2017",
+    "location" : "JIIT Noida, Delhi",
+    "type"     : "hackathon",
+    "website"  : "http://www.cybersrishti.org/",
+    "logo"     : "http://www.cybersrishti.org/images/HACKATHON.png"
+  }
+  
 ]
