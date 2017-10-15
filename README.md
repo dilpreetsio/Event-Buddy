@@ -1,3 +1,6 @@
+
+![Event-Buddy](hhttps://raw.githubusercontent.com/geekyd/Event-Buddy/master/src/assets/logo.png)
+
 # Event Buddy
 
 Lists all major Hackathons, Conferences & Start-up Events at one place. The purpose of this app is to provide information to every enthusiast. Contribute by sharing events around you to help others.
