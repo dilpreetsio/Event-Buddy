@@ -97,5 +97,14 @@
     "type"  : "hackathon",
     "website" : "http://www.digitalbankla.com/argentina/",
     "logo"  : ""
+  },
+  {
+    "name"  : "48 Hour Tech Launch",
+    "start" : "10/11/2017",
+    "end"   : "12/11/2017",
+    "location"  : "Memphis, TN",
+    "type"  : "hackathon",
+    "website" : "https://www.eventbrite.com/e/48-hour-tech-launch-tickets-37738421635",
+    "logo"  : "https://cdn.evbuc.com/eventlogos/1887522/1041361741-1.jpg" 
   }
 ]
