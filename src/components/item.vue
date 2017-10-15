@@ -4,7 +4,7 @@
       <div class="ui grid">
         <div class="ui row">
           <div class="ui column four wide">
-            <img v-if="event.logo" class="ui tiny circular image fluid" v-bind:src="event.logo">
+            <img v-if="event.logo" class="ui tiny circular image fluid" v-bind:src="event.logo" v-bind:alt="event.name">
             <img v-else class="ui tiny circular image fluid" src="../assets/icon.png">
           </div>
           <div class="ui column twelve wide data">

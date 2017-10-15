@@ -9,11 +9,13 @@ import Footer from './components/footer'
 import Index from './components/index'
 import GitHubButtons from './components/githubbuttons.vue'
 import router from './router'
+import vueScrollto from 'vue-scrollto'
 
 Vue.config.productionTip = false
 
 Vue.use(VueLodash, lodash)
 Vue.use(VueFetch)
+Vue.use(vueScrollto)
 
 Vue.component('header-component', Header)
 Vue.component('footer-component', Footer)

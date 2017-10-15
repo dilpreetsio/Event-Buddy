@@ -4,9 +4,9 @@
     <github-buttons-component></github-buttons-component>
     <div class="month ui row">{{month}}</div>
     <div class="ui horizontal list">
-      <router-link class="item" to="#hackatons">Hackatons</router-link>
-      <router-link class="item" to="#conferences">Conferences</router-link>
-      <router-link class="item" to="#startups">Startup Events</router-link>
+      <a class="item" v-scroll-to="'#hackathons'">Hackatons</a>
+      <a class="item" v-scroll-to="'#conferences'">Conferences</a>
+      <a class="item" v-scroll-to="'#startups'">Startup Events</a>
     </div>
   </div>
 </template>
