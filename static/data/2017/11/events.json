@@ -107,4 +107,13 @@
     "website" : "https://www.eventbrite.com/e/48-hour-tech-launch-tickets-37738421635",
     "logo"  : "https://cdn.evbuc.com/eventlogos/1887522/1041361741-1.jpg" 
   }
+  {
+    "name" : "Amplitude , Hacker Earth",
+    "start" : "03/11/17",
+    "end" : "04/11/17",
+    "location" : "Pune,India",
+    "type" : "hackathon",
+    "website" : "https://www.hackerearth.com/sprints/amplitude-2017/",
+    "logo": "https://he-s3.s3.amazonaws.com/media/cache/90/ee/90ee27d9c3d752c3794b410eef92cd0d.png"
+  }
 ]
