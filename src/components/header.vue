@@ -3,6 +3,11 @@
     <img class="logo" src="../assets/logo.png">
     <github-buttons-component></github-buttons-component>
     <div class="month ui row">{{month}}</div>
+    <div class="ui horizontal list">
+      <router-link class="item" to="#hackatons">Hackatons</router-link>
+      <router-link class="item" to="#conferences">Conferences</router-link>
+      <router-link class="item" to="#startups">Startup Events</router-link>
+    </div>
   </div>
 </template>
 <script>
