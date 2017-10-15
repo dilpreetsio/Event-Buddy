@@ -133,5 +133,23 @@
     "type"  : "conference",
     "website" : "https://opensourceindia.in/osidays/",
     "logo"  : ""
+  },
+  {
+    "name": "NodeConf Argentina",
+    "start": "26/10/2017",
+    "end": "28/10/2017",
+    "location": "Buenos Aires, Argentina",
+    "type": "conference",
+    "website": "https://2017.nodeconf.com.ar/",
+    "logo": ""
+  },
+  {
+    "name": "Emprendevs Rosario",
+    "start": "14/10/2017",
+    "end": "14/10/2017",
+    "location": "Rosario, Argentina",
+    "type": "conference",
+    "website": "http://emprendevs.com/",
+    "logo": "http://emprendevs.com/wp-content/uploads/2017/09/smail-logo.png"
   }
 ]

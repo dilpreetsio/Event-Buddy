@@ -1,6 +1,7 @@
 <template>
   <div class="header ui row">
     <img class="logo" src="../assets/logo.png">
+    <github-buttons-component></github-buttons-component>
     <div class="month ui row">{{month}}</div>
     <ul>
       <li><a href="#hackatons">Hackatons</a></li>
