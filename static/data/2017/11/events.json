@@ -111,9 +111,9 @@
     "name"  : "Nodevember 2017",
     "start" : "27/11/2017",
     "end"   : "28/11/2017",
-    "location"  : "Nashville, TN",
+    "location"  : "Nashville, TN, USA",
     "type"  : "conference",
     "website" : "http://nodevember.org/",
-    "logo"  : "" 
+    "logo"  : "http://nodevember.org/img/logo-dark.png" 
   }
 ]
