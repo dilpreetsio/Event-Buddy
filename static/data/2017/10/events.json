@@ -161,4 +161,13 @@
     "website": "http://hackdtu.tech/",
     "logo": "http://hackdtu.tech/static/images/logo.png"
   }
+  {
+    "name": "Hack@BVP",
+    "start": 10/10/2017",
+    "end": "11/10/2017",
+    "location": "Bharati Vidyapeeth College of Engineering, GGSIPU"
+    "type": "hackathon",
+    "website": "http://www.hackatbvp.com"
+    "logo": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/000/547/381/datas/full_width.png"
+  }
 ]
