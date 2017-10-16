@@ -169,5 +169,14 @@
     "type": "hackathon",
     "website": "http://www.hackatbvp.com",
     "logo": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/000/547/381/datas/full_width.png"
+  },
+  {
+    "name": "UHack - Hackathon",
+    "start": "14/10/2017",
+    "end": "15/10/2017",
+    "location": "University School of Information, Communication and Technology, Delhi, India",
+    "type": "hackathon",
+    "website": "https://infoxpression.in/event?id=1",
+    "logo": "https://infoxpression.in/uploads/posters/uhack.jpg"
   }
 ]
