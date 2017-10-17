@@ -12,5 +12,14 @@ export default new Router({
       name: 'index',
       component: Index
     }
-  ]
+  ],
+
+  scrollBehavior (to, from, savedPosition) {
+    if (to.hash) {
+      return {
+        selector: to.hash
+      }
+    }
+  }
+
 })

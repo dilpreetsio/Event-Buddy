@@ -2,6 +2,11 @@
   <div class="header ui row">
     <img class="logo" src="../assets/logo.png">
     <div class="month ui row">{{month}}</div>
+    <div class="ui">
+      <router-link class="item" to="#hackathons">Hackathons</router-link> |
+      <router-link class="item" to="#conferences">Conferences</router-link> |
+      <router-link class="item" to="#startupevents">Startup Events</router-link>
+    </div>
   </div>
 </template>
 <script>
