@@ -187,5 +187,14 @@
     "type": "hackathon",
     "website": "http://hashhacks.tech/",
     "logo": "https://scontent.fdel9-1.fna.fbcdn.net/v/t1.0-9/22449680_652682821787441_4913765990904781387_n.jpg?oh=1860a664bef8bb807368ad17c0fc63f9&oe=5A770095"
+  },
+    {
+    "name": "Code-Off",
+    "start": "27/10/2017",
+    "end":  "28/10.2018",
+    "location": "Indraprastha Institute of Information Technology Delhi",
+    "type": "hackathon",
+    "website": "https://www.hackerearth.com/sprints/code-off/",
+    "logo": "https://hackerearth-media.global.ssl.fastly.net/media/hackathon/code-off/images/faa3f9a8b0-code-off_3.png"
   }
 ]
