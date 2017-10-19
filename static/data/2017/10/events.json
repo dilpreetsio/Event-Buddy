@@ -196,5 +196,14 @@
     "type": "hackathon",
     "website": "https://www.hackerearth.com/sprints/code-off/",
     "logo": "https://hackerearth-media.global.ssl.fastly.net/media/hackathon/code-off/images/faa3f9a8b0-code-off_3.png"
+  },
+  {
+    "name": "Vistara Aviation Hackathon",
+    "start": "07/10/2017",
+    "end": "08/10/2017",
+    "location": "Delhi & Banglore, India",
+    "type": "hackathon",
+    "website": "http://vistara.incubateind.com/",
+    "logo": "http://vistara.incubateind.com/asset/images/alt-logo.png"
   }
 ]
