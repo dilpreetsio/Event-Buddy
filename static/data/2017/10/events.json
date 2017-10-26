@@ -223,5 +223,14 @@
     "type": "hackathon",
     "website": "http://www.emr.gob.ar/hackathon/",
     "logo": "http://www.emr.gob.ar/hackathon/images/FLYER%20Hac-animado.gif"
+  },
+  {
+    "name": "Pre-Hackatón innovación financiera con metodologías ágiles",
+    "start": "26/10/2017",
+    "end": "26/10/2017",
+    "location": "SUM UTN Rosario, Santa Fe, Argentina",
+    "type": "hackathon",
+    "website": "http://isi-investiga.frro.utn.edu.ar/pre-hackat%C3%B3n-de-innovaci%C3%B3n-financiera-con-metodolog%C3%ADas-%C3%A1giles",
+    "logo": "http://isi-investiga.frro.utn.edu.ar/sites/default/files/publico/styles/large/public/field/image/BANNER%20UTN.jpg"
   }
 ]
