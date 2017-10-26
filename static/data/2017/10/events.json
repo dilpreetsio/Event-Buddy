@@ -205,5 +205,14 @@
     "type": "hackathon",
     "website": "http://vistara.incubateind.com/",
     "logo": "http://vistara.incubateind.com/asset/images/alt-logo.png"
+  },
+  {
+    "name": "Hackaton Agro 2017",
+    "start": "15/09/2017",
+    "end": "16/09/2017",
+    "location": "Bolsa de comercio Rosario, Santa Fe, Argentina",
+    "type": "hackathon",
+    "website": "https://www.argentina.gob.ar/hackatonagro",
+    "logo": "https://www.argentina.gob.ar/sites/default/files/hackatonagro-logo2.png"
   }
 ]
