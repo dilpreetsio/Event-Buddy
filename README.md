@@ -1,6 +1,10 @@
-# Event Buddy
+# ![alt Event Buddy](/src/assets/logo.png)
 
 Lists all major Hackathons, Conferences & Start-up Events at one place. The purpose of this app is to provide information to every enthusiast. Contribute by sharing events around you to help others.
+
+## Screenshot
+
+![alt screenshot](/static/screenshots/screenshot.png)
 
 ## Is there any event that is missing ?
 
@@ -34,4 +38,4 @@ npm run dev
 
 ## Maintainer
 
-This project is maintainer by [geekyd](https://github.com/geekyd)
+This project is maintained by [geekyd](https://github.com/geekyd)

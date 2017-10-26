@@ -151,5 +151,59 @@
     "type": "conference",
     "website": "http://emprendevs.com/",
     "logo": "http://emprendevs.com/wp-content/uploads/2017/09/smail-logo.png"
+  },
+  {
+    "name": "Hack DTU",
+    "start": "13/10/2017",
+    "end": "14/10/2017",
+    "location": "Delhi Technological University, Delhi, India",
+    "type": "hackathon",
+    "website": "http://hackdtu.tech/",
+    "logo": "http://hackdtu.tech/static/images/logo.png"
+  },
+  {
+    "name": "Hack@BVP",
+    "start": "10/10/2017",
+    "end": "11/10/2017",
+    "location": "Bharati Vidyapeeth College of Engineering, Delhi, India",
+    "type": "hackathon",
+    "website": "http://www.hackatbvp.com",
+    "logo": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/000/547/381/datas/full_width.png"
+  },
+  {
+    "name": "UHack - Hackathon",
+    "start": "14/10/2017",
+    "end": "15/10/2017",
+    "location": "University School of Information, Communication and Technology, Delhi, India",
+    "type": "hackathon",
+    "website": "https://infoxpression.in/event?id=1",
+    "logo": "https://infoxpression.in/uploads/posters/uhack.jpg"
+  },
+  {
+    "name": "Hashhacks 2.0",
+    "start": "27/10/2017",
+    "end":  "28/10.2018",
+    "location": "Cluster Innovation Centre , University of Delhi",
+    "type": "hackathon",
+    "website": "http://hashhacks.tech/",
+    "logo": "https://scontent.fdel9-1.fna.fbcdn.net/v/t1.0-9/22449680_652682821787441_4913765990904781387_n.jpg?oh=1860a664bef8bb807368ad17c0fc63f9&oe=5A770095"
+  },
+    {
+    "name": "Code-Off",
+    "start": "27/10/2017",
+    "end":  "28/10.2018",
+    "location": "Indraprastha Institute of Information Technology Delhi",
+    "type": "hackathon",
+    "website": "https://www.hackerearth.com/sprints/code-off/",
+    "logo": "https://hackerearth-media.global.ssl.fastly.net/media/hackathon/code-off/images/faa3f9a8b0-code-off_3.png"
+  },
+  {
+    "name": "Vistara Aviation Hackathon",
+    "start": "07/10/2017",
+    "end": "08/10/2017",
+    "location": "Delhi & Banglore, India",
+    "type": "hackathon",
+    "website": "http://vistara.incubateind.com/",
+    "logo": "http://vistara.incubateind.com/asset/images/alt-logo.png"
   }
 ]

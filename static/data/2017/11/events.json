@@ -97,5 +97,32 @@
     "type"  : "hackathon",
     "website" : "http://www.digitalbankla.com/argentina/",
     "logo"  : ""
+  },
+  {
+    "name"  : "48 Hour Tech Launch",
+    "start" : "10/11/2017",
+    "end"   : "12/11/2017",
+    "location"  : "Memphis, TN",
+    "type"  : "hackathon",
+    "website" : "https://www.eventbrite.com/e/48-hour-tech-launch-tickets-37738421635",
+    "logo"  : "https://cdn.evbuc.com/eventlogos/1887522/1041361741-1.jpg" 
+  },
+  {
+    "name"  : "Nodevember 2017",
+    "start" : "27/11/2017",
+    "end"   : "28/11/2017",
+    "location"  : "Nashville, TN, USA",
+    "type"  : "conference",
+    "website" : "http://nodevember.org/",
+    "logo"  : "http://nodevember.org/img/logo-dark.png" 
+  },
+  {
+    "name"  : "RubyConf 2017",
+    "start" : "17/11/2017",
+    "end"   : "18/11/2017",
+    "location"  : "Sao Paulo, SP, Brazil",
+    "type"  : "conference",
+    "website" : "http://eventos.locaweb.com.br/",
+    "logo"  : "http://eventos.locaweb.com.br/files/2017/02/logo_locaweb-e1473086766682_.png"
   }
 ]

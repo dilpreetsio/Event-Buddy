@@ -1,7 +1,13 @@
 <template>
   <div class="header ui row">
     <img class="logo" src="../assets/logo.png">
+    <github-buttons-component></github-buttons-component>
     <div class="month ui row">{{month}}</div>
+    <div class="ui horizontal list">
+      <a class="item" v-scroll-to="'#hackathons'">Hackathons</a>
+      <a class="item" v-scroll-to="'#conferences'">Conferences</a>
+      <a class="item" v-scroll-to="'#startups'">Startup Events</a>
+    </div>
   </div>
 </template>
 <script>
