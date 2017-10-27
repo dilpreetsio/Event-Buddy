@@ -182,16 +182,16 @@
   {
     "name": "Hashhacks 2.0",
     "start": "27/10/2017",
-    "end":  "28/10.2018",
+    "end":  "28/10/2017",
     "location": "Cluster Innovation Centre , University of Delhi",
     "type": "hackathon",
     "website": "http://hashhacks.tech/",
     "logo": "https://scontent.fdel9-1.fna.fbcdn.net/v/t1.0-9/22449680_652682821787441_4913765990904781387_n.jpg?oh=1860a664bef8bb807368ad17c0fc63f9&oe=5A770095"
   },
-    {
+  {
     "name": "Code-Off",
     "start": "27/10/2017",
-    "end":  "28/10.2018",
+    "end":  "28/10/2017",
     "location": "Indraprastha Institute of Information Technology Delhi",
     "type": "hackathon",
     "website": "https://www.hackerearth.com/sprints/code-off/",
@@ -205,5 +205,32 @@
     "type": "hackathon",
     "website": "http://vistara.incubateind.com/",
     "logo": "http://vistara.incubateind.com/asset/images/alt-logo.png"
+  },
+  {
+    "name": "Hackaton Agro 2017",
+    "start": "15/09/2017",
+    "end": "16/09/2017",
+    "location": "Bolsa de comercio Rosario, Santa Fe, Argentina",
+    "type": "hackathon",
+    "website": "https://www.argentina.gob.ar/hackatonagro",
+    "logo": "https://www.argentina.gob.ar/sites/default/files/hackatonagro-logo2.png"
+  },
+  {
+    "name": "1st Y4PT National Transport Hackathon Argentina 2017",
+    "start": "29/09/2017",
+    "end": "01/10/2017",
+    "location": "Zona i, Rosario, Santa Fe, Argentina",
+    "type": "hackathon",
+    "website": "http://www.emr.gob.ar/hackathon/",
+    "logo": "http://www.emr.gob.ar/hackathon/images/FLYER%20Hac-animado.gif"
+  },
+  {
+    "name": "Pre-Hackatón innovación financiera con metodologías ágiles",
+    "start": "26/10/2017",
+    "end": "26/10/2017",
+    "location": "SUM UTN Rosario, Santa Fe, Argentina",
+    "type": "hackathon",
+    "website": "http://isi-investiga.frro.utn.edu.ar/pre-hackat%C3%B3n-de-innovaci%C3%B3n-financiera-con-metodolog%C3%ADas-%C3%A1giles",
+    "logo": "http://isi-investiga.frro.utn.edu.ar/sites/default/files/publico/styles/large/public/field/image/BANNER%20UTN.jpg"
   }
 ]
