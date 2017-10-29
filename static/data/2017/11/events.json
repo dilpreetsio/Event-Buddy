@@ -124,5 +124,14 @@
     "type"  : "conference",
     "website" : "http://eventos.locaweb.com.br/",
     "logo"  : "http://eventos.locaweb.com.br/files/2017/02/logo_locaweb-e1473086766682_.png"
+  },
+  {
+    "name"  : "Agos4Hack",
+    "start" : "18/11/2017",
+    "end"   : "19/11/2017",
+    "location"  : "Milan, Italy",
+    "type"  : "hackathon",
+    "website" : "https://agos4hack.agos.it/",
+    "logo"  : "https://agos4hack.agos.it/wp-content/uploads/2017/10/agos4hack_600x200-07.png"
   }
 ]
