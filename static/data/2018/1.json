@@ -7,5 +7,32 @@
 		"type" : "hackathon",
 		"website" : "hack-vsit.tech",
 		"logo" : "https://hack-vsit.tech/img/logo_blue.png"
+	},
+	{
+		"name" : "Startup 2018",
+		"start" : "22/01/2018",
+		"end" : "22/01/2018",
+		"location" : "New Delhi, India",
+		"type" : "startup",
+		"website" : "https://www.townscript.com/e/startup-2018-311203",
+		"logo" : "https://www.franchiseindia.com/startup2018/images/sa-logo.svg"
+	},
+	{
+		"name" : "E-Summit 2018",
+		"start" : "27/01/2018",
+		"end" : "28/01/2018",
+		"location" : "Mumbai, India",
+		"type" : "startup",
+		"website" : "https://www.ecell.in/esummit/",
+		"logo" : "https://www.ecell.in/esummit/images/bacha.png"
+	},
+	{
+		"name" : "Under 25 Summit",
+		"start" : "20/01/2018",
+		"end" : "20/01/2018",
+		"location" : "Hyderabad, India",
+		"type" : "conference",
+		"website" : "http://hyd.under25summit.com/#/home",
+		"logo" : "http://apeita.in/wp-content/uploads/2017/01/IMG_19012017_125007_0-300x243.png"
 	}
 ]
