@@ -1,0 +1,20 @@
+[
+	{
+		"name" : "TIECON Chandigarh 2018",
+		"start" : "08/03/2018",
+		"end" : "09/03/2018",
+		"location" : "Chandigarh, India",
+		"type" : "startup",
+		"website" : "hack-vsit.tech",
+		"logo" : "https://hub.tie.org/e/tiecon-chandigarh-2018"
+	},
+  {
+		"name" : "FOSSASIA Summit",
+		"start" : "22/03/2018",
+		"end" : "25/03/2018",
+		"location" : "Singapore",
+		"type" : "conference",
+		"website" : "hack-vsit.tech",
+		"logo" : "https://eventyay.com/e/b548bcfc/"
+	},
+]

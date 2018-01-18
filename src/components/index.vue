@@ -52,7 +52,7 @@ export default {
   },
   methods: {
     fetchData () {
-      var url = 'static/data/' + this.year + '/' + this.month + '/events.json'
+      var url = 'static/data/' + this.year + '/' + this.month + '.json'
       this.$fetch.get(url).then(response => {
         response.json().then(data => {
           var group = this._.groupBy(data, 'type')
