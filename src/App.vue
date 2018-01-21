@@ -8,6 +8,18 @@
 export default {
   name: 'app'
 }
+
+// Create a global event bus to emit/listen to events across all vues
+import Vue from 'vue'
+const EventBus = new Vue()
+
+Object.defineProperties(Vue.prototype, {
+  $bus: {
+    get: function () {
+      return EventBus
+    }
+  }
+})
 </script>
 
 <style>

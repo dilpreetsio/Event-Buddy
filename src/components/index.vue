@@ -37,6 +37,7 @@
 import Item from './item.vue'
 import Header from './header.vue'
 import Footer from './footer.vue'
+import moment from 'moment'
 
 export default {
   Header,
@@ -50,6 +51,14 @@ export default {
       startups: []
     }
   },
+  created () {
+    this.$bus.$on('dateUpdate', ($event) => {
+      this.updateDate($event)
+    })
+
+    // Set initially to current date
+    this.updateDate(0)
+  },
   methods: {
     fetchData () {
       var url = 'static/data/' + this.year + '/' + this.month + '.json'
@@ -61,13 +70,14 @@ export default {
           this.conferences = this._.orderBy(group.conference, 'start')
         })
       })
+    },
+    updateDate (monthOffset) {
+      var myMoment = moment().add(monthOffset, 'months')
+
+      this.month = myMoment.format('M')
+      this.year = myMoment.format('YYYY')
+      this.fetchData()
     }
-  },
-  created () {
-    var date = new Date()
-    this.month = (date.getMonth() + 1)
-    this.year = (date.getFullYear())
-    this.fetchData()
   }
 }
 </script>

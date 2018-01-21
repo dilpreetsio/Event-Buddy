@@ -2,7 +2,9 @@
   <div class="header ui row">
     <img class="logo" src="../assets/logo.png">
     <github-buttons-component></github-buttons-component>
-    <div class="month ui row">{{month}}</div>
+    <div class="month ui row">
+    <button v-on:click="decrementMonth()"> < </button> {{month}} <button v-on:click="incrementMonth()"> > </button>
+    </div>
     <div class="ui horizontal list">
       <a class="item" v-scroll-to="'#hackathons'">Hackathons</a>
       <a class="item" v-scroll-to="'#conferences'">Conferences</a>
@@ -16,10 +18,24 @@ import moment from 'moment'
 export default {
   data () {
     return {
-      month: moment().format('MMMM YYYY')
+      monthOffset: 0,
+      month: moment().add(0, 'months').format('MMMM YYYY')
+    }
+  },
+  methods: {
+    incrementMonth: function () {
+      this.monthOffset += 1
+      this.month = moment().add(this.monthOffset, 'months').format('MMMM YYYY')
+      this.$bus.$emit('dateUpdate', this.monthOffset)
+    },
+    decrementMonth: function () {
+      this.monthOffset -= 1
+      this.month = moment().add(this.monthOffset, 'months').format('MMMM YYYY')
+      this.$bus.$emit('dateUpdate', this.monthOffset)
     }
   }
 }
+
 </script>
 <style scoped>
 .ui.row {
