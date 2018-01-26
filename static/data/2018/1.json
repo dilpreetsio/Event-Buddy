@@ -34,5 +34,14 @@
 		"type" : "conference",
 		"website" : "http://hyd.under25summit.com/#/home",
 		"logo" : "http://apeita.in/wp-content/uploads/2017/01/IMG_19012017_125007_0-300x243.png"
+	},
+	{
+		"name" : "ReactFoo Pune",
+		"start" : "19/01/2018",
+		"end" : "20/01/2018",
+		"location" : "Pune, India",
+		"type" : "conference",
+		"website" : "https://reactfoo.in/",
+		"logo" : ""
 	}
 ]
