@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import VueFetch from 'vue-fetch'
 import App from './App'
-import lodash from 'lodash'
+import _ from 'lodash'
 import VueLodash from 'vue-lodash'
 import Item from './components/item'
 import Header from './components/header'
@@ -13,7 +13,7 @@ import vueScrollto from 'vue-scrollto'
 
 Vue.config.productionTip = false
 
-Vue.use(VueLodash, lodash)
+Vue.use(VueLodash, _)
 Vue.use(VueFetch)
 Vue.use(vueScrollto)
 

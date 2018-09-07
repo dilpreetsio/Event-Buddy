@@ -2,8 +2,14 @@
   <div class="header ui row">
     <img class="logo" src="../assets/logo.png">
     <github-buttons-component></github-buttons-component>
-    <div class="month ui row">
-    <button v-on:click="decrementMonth()"> < </button> {{month}} <button v-on:click="incrementMonth()"> > </button>
+    <div class="month column sixteen wide ui row">
+      <button class="circular ui icon button" v-on:click="decrementMonth()">
+        <i class="angle left icon"></i>
+      </button>
+      {{month}} 
+      <button class="circular ui icon button" v-on:click="incrementMonth()">
+        <i class="angle right icon"></i>
+      </button>
     </div>
     <div class="ui horizontal list">
       <a class="item" v-scroll-to="'#hackathons'">Hackathons</a>

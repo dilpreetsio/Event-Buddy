@@ -1,0 +1,20 @@
+[
+	{
+		"name" : "ApacheCon North America",
+		"start" : "24/09/2018",
+		"end" : "27/09/2018",
+		"location" : "Montreal, Canada",
+		"type" : "conference",
+		"website" : "http://www.apachecon.com/acna18/",
+		"logo" : "https://goodlogo.com/images/logos/apache_software_foundation_logo_3074.gif"
+	},
+  {
+		"name" : "JugaadFest",
+		"start" : "30/09/2018",
+		"end" : "30/09/2018",
+		"location" : "Hyderabad, India",
+		"type" : "conference",
+		"website" : "https://jugaadfest.com/",
+		"logo" : "https://jugaadfest.com/images/be2ea7a9-04a3-42fc-81e4-673ecef9c1ac.png"
+	}
+]

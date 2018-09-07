@@ -38,6 +38,7 @@ import Item from './item.vue'
 import Header from './header.vue'
 import Footer from './footer.vue'
 import moment from 'moment'
+import _ from 'lodash'
 
 export default {
   Header,
@@ -63,14 +64,21 @@ export default {
     fetchData () {
       var url = 'static/data/' + this.year + '/' + this.month + '.json'
       this.$fetch.get(url).then(response => {
-        response.json().then(data => {
-          var group = this._.groupBy(data, 'type')
-          this.hacks = this._.orderBy(group.hackathon, 'start')
-          this.startups = this._.orderBy(group.startup, 'start')
-          this.conferences = this._.orderBy(group.conference, 'start')
-        })
+        if (response.status !== 404) {
+          response.json().then(data => {
+          var group = _.groupBy(data, 'type')
+          this.hacks = _.orderBy(group.hackathon, 'start')
+          this.startups = _.orderBy(group.startup, 'start')
+          this.conferences = _.orderBy(group.conference, 'start')
+          })
+        } else {
+          this.hacks = []
+          this.startups = []
+          this.conferences = []
+        }
       })
     },
+
     updateDate (monthOffset) {
       var myMoment = moment().add(monthOffset, 'months')
 

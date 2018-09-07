@@ -1,0 +1,20 @@
+[
+	{
+		"name" : "TechSparks",
+		"start" : "05/10/2018",
+		"end" : "06/10/2018",
+		"location" : "Bangalore, India",
+		"type" : "startup",
+		"website" : "https://events.yourstory.com/techsparks",
+		"logo" : "https://uploads-ssl.webflow.com/5ae98eec19474ec4b00cd02a/5b04fdb52ea7f635f099e8a5_TechSparks18%20Deck%20elements-37.png"
+	},
+  {
+		"name" : "Pycon India",
+		"start" : "05/10/2018",
+		"end" : "09/10/2018",
+		"location" : "Hyderabad",
+		"type" : "conference",
+		"website" : "https://in.pycon.org/2018/",
+		"logo" : "https://in.pycon.org/2018/img/banner-logo.png"
+	}
+]
