@@ -1,0 +1,47 @@
+[
+	{
+		"name" : "SenSys '18: The 16th ACM Conference on Embedded Networked Sensor Systems",
+		"start" : "04/11/2018",
+		"end" : "07/11/2018",
+		"location" : "Shenzhen, China",
+		"type" : "Conference",
+		"website" : "http://sensys.acm.org/2018/",
+		"logo" : "http://sensys.acm.org/2018/resources/images/shenzhen.jpeg"
+	},
+  {
+		"name" : "ICCAD '18: IEEE/ACM INTERNATIONAL CONFERENCE ON COMPUTER-AIDED DESIGN",
+		"start" : "05/11/2018",
+		"end" : "09/11/2018",
+		"location" : "San Diego, USA",
+		"type" : "Conference",
+		"website" : "https://iccad.com/",
+		"logo" : "https://iccad.com/sites/iccad.com/files/2018_ICCAD-logo_WEB_sm.png"
+	},
+  {
+		"name" : "CNSM 2018: 14th International Conference on Network and Service Management",
+		"start" : "05/11/2018",
+		"end" : "10/11/2018",
+		"location" : "Rome, Italy",
+		"type" : "Conference",
+		"website" : "http://cnsm-conf.org/2018//",
+		"logo" : "http://cnsm-conf.org/2018/images/logo_cnsm.gif"
+	},
+  {
+		"name" : "SC18: The International Conference for High Performance Computing, Networking, Storage and Analysis",
+		"start" : "10/11/2018",
+		"end" : "16/11/2018",
+		"location" : "Dallas, USA",
+		"type" : "Conference",
+		"website" : "https://sc18.supercomputing.org/",
+		"logo" : "http://www.kurzweilai.net/images/sc18-logo.jpg"
+	},
+  {
+		"name" : "HotNets '18: The 17th ACM workshop on Hot Topics in Networks",
+		"start" : "15/11/2018",
+		"end" : "17/11/2018",
+		"location" : "Redmond, USA",
+		"type" : "Conference",
+		"website" : "https://conferences.sigcomm.org/hotnets/2018/",
+		"logo" : "https://conferences.sigcomm.org/hotnets/2018/logos/acm-logo.jpg"
+	}
+]
