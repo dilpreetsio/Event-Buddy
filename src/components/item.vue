@@ -5,7 +5,7 @@
         <div class="ui row">
           <div class="ui column four wide">
             <img v-if="event.logo" class="ui tiny circular image fluid" v-bind:src="event.logo" v-bind:alt="event.name">
-            <img v-else class="ui tiny circular image fluid" src="../assets/icon.png">
+            <div v-else class="alphabetCircle">{{event.name.split(/\s/).reduce((response,word)=> response+=word.slice(0,1),'')}}</div>
           </div>
           <div class="ui column twelve wide data">
             <h3 class="ui header">
