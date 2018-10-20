@@ -43,5 +43,23 @@
 		"type" : "conference",
 		"website" : "https://www.itexpo.com",
 		"logo" : "https://images.tmcnet.com/expo/itexpo-logo-2019.png"
+	},
+	{
+		"name" : "Hacking Self Hackathon",
+		"start" : "01/26/2019",
+		"end" : "01/27/2019",
+		"location" : "Toronto, ON Canada",
+		"type" : "hackathon",
+		"website" : "https://www.eventbrite.ca/e/hacking-self-hackathon-jan-2019-tickets-42403345548",
+		"logo" : "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F50466065%2F232274392418%2F1%2Foriginal.jpg?w=800&auto=compress&rect=0%2C33%2C1280%2C640&s=c3292a6aa3364b125a21e63c0eb5a4b2"
+	},
+	{
+		"name" : "StarterHacks",
+		"start" : "01/12/2019",
+		"end" : "01/13/2019",
+		"location" : "University of Waterloo",
+		"type" : "hackathon",
+		"website" : "https://www.starterhacks.ca/",
+		"logo" : "https://www.starterhacks.ca/assets/img/logo.png"
 	}
 ]
