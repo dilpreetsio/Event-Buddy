@@ -17,7 +17,25 @@
 		"website" : "https://in.pycon.org/2018/",
 		"logo" : "https://in.pycon.org/2018/img/banner-logo.png"
 	},
-	{
+  {
+		"name" : "Oracle OpenWorld",
+		"start" : "22/10/2018",
+		"end" : "25/10/2018",
+		"location" : "San Francisco",
+		"type" : "conference",
+		"website" : "https://www.oracle.com/openworld/index.html",
+		"logo" : "https://www.oracle.com/a/evt/img/u20-oow18-logo.png"
+	},
+  {
+		"name" : "Dare Mighty Things",
+		"start" : "29/10/2018",
+		"end" : "29/10/2018",
+		"location" : "Chicago",
+		"type" : "conference",
+		"website" : "http://daremightythings.co/",
+		"logo" : "http://daremightythings.co/img/white-md.png"
+	},
+  	{
 		 "name": "Talkdesk",
 		 "start": "29/10/2018",
 		 "end": "29/10/2018",
@@ -25,5 +43,5 @@
 		 "type": "hackathon",
 		 "website": "https://www.eventbrite.com/e/hacktoberfest-porto-tickets-51409133101",
 		 "logo": "https://www.talkdesk.com/app/themes/talkdesk-com/assets/images/talkdesk-logo.svg"
-	}
+  }
 ]
