@@ -43,5 +43,14 @@
 		 "type": "hackathon",
 		 "website": "https://www.eventbrite.com/e/hacktoberfest-porto-tickets-51409133101",
 		 "logo": "https://www.talkdesk.com/app/themes/talkdesk-com/assets/images/talkdesk-logo.svg"
+  },
+  {
+	  "name": "AR/VR Meetup",
+	  "start": "27/10/2018",
+	  "end": "27/10/2018",
+	  "location": "Lagos, Nigeria",
+	  "type": "meetup",
+	  "website": "https://www.eventbrite.com/e/arvr-meetup-october-2018-tickets-51147228738",
+	  "logo": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F50974029%2F150427414194%2F1%2Foriginal.jpg?w=800&auto=compress&rect=0%2C3%2C810%2C405&s=5b333be89ff4c71befa82a38da204b9a"
   }
 ]
