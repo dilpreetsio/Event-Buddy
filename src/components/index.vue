@@ -66,10 +66,10 @@ export default {
       this.$fetch.get(url).then(response => {
         if (response.status !== 404) {
           response.json().then(data => {
-          var group = _.groupBy(data, 'type')
-          this.hacks = _.orderBy(group.hackathon, 'start')
-          this.startups = _.orderBy(group.startup, 'start')
-          this.conferences = _.orderBy(group.conference, 'start')
+            var group = _.groupBy(data, 'type')
+            this.hacks = _.orderBy(group.hackathon, 'start')
+            this.startups = _.orderBy(group.startup, 'start')
+            this.conferences = _.orderBy(group.conference, 'start')
           })
         } else {
           this.hacks = []

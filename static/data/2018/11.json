@@ -7,5 +7,50 @@
 		"type" : "hackathon",
 		"website" : "https://hackjunction.com/",
 		"logo" : "https://staging.hackjunction.com/wp-content/uploads/2018/06/junctionx_globe.png"
+  },
+  {
+		"name" : "The Wall Street Journal D.Live",
+		"start" : "11/12/2018",
+		"end" : "11/14/2018",
+		"location" : "Laguna Beach, CA",
+		"type" : "conference",
+		"website" : "https://dlive.wsj.com/laguna/",
+		"logo" : "https://images.dowjones.com/wp-content/uploads/sites/121/2018/09/11181051/WSJ-Tech-D_Live-RGB-KO.png"
+  },
+  {
+		"name" : "InfoSecurity",
+		"start" : "11/14/2018",
+		"end" : "11/15/2018",
+		"location" : "New York",
+		"type" : "conference",
+		"website" : "https://www.infosecuritynorthamerica.com/",
+		"logo" : "https://www.infosecuritynorthamerica.com/RXUK/RXUK_InfosecurityNorthAmerica/images/logos/main/INFUS_360x180_Logo.png"
+  },
+  {
+		"name" : "AWS Re:Invent",
+		"start" : "11/26/2018",
+		"end" : "11/30/2018",
+		"location" : "Las Vegas",
+		"type" : "conference",
+		"website" : "https://reinvent.awsevents.com/",
+		"logo" : "https://s3-ap-northeast-1.amazonaws.com/round-and-round/wp-content/uploads/2017/10/07123335/aws_new_logo.png"
+  },
+  {
+		"name" : "Gartner Application Strategies & Solutions Summit",
+		"start" : "11/27/2018",
+		"end" : "11/29/2018",
+		"location" : "Las Vegas",
+		"type" : "conference",
+		"website" : "https://www.gartner.com/en/conferences/na/applications-us",
+		"logo" : "https://emtemp.gcom.cloud/ngw/eventassets/en/conferences/common/images/gartnerlogo@2x.png"
+  },
+  {
+		"name" : "HPE Discover 2018",
+		"start" : "11/27/2018",
+		"end" : "11/29/2018",
+		"location" : "Madrid",
+		"type" : "conference",
+		"website" : "https://www.hpe.com/events/discover/",
+		"logo" : "https://www.hpe.com/events/discover/content/images/HPE_Discover_2018.png"
 	}
 ]

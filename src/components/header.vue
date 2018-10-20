@@ -41,7 +41,6 @@ export default {
     }
   }
 }
-
 </script>
 <style scoped>
 .ui.row {
