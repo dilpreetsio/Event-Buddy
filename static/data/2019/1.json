@@ -61,5 +61,14 @@
 		"type" : "hackathon",
 		"website" : "https://www.starterhacks.ca/",
 		"logo" : "https://www.starterhacks.ca/assets/img/logo.png"
+	},
+	{
+		"name" : "HackDFW",
+		"start" : "02/16/2019",
+		"end" : "02/17/2019",
+		"location" : "The Women's Museum, Fair Park, Dallas, TX",
+		"type" : "hackathon",
+		"website" : "https://www.hackdfw.com/",
+		"logo" : "https://www.hackdfw.com/splash-assets/img/hackdfw-stacked.png"
 	}
 ]
