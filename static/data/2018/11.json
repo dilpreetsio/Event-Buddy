@@ -1,56 +1,91 @@
-[
-	{
-		"name" : "Junction 2018",
-		"start" : "23/11/2018",
-		"end" : "25/11/2018",
-		"location" : "Helsinki, Finland",
-		"type" : "hackathon",
-		"website" : "https://hackjunction.com/",
-		"logo" : "https://staging.hackjunction.com/wp-content/uploads/2018/06/junctionx_globe.png"
+[{
+    "name": "Junction 2018",
+    "start": "23/11/2018",
+    "end": "25/11/2018",
+    "location": "Helsinki, Finland",
+    "type": "hackathon",
+    "website": "https://hackjunction.com/",
+    "logo": "https://staging.hackjunction.com/wp-content/uploads/2018/06/junctionx_globe.png"
   },
   {
-		"name" : "The Wall Street Journal D.Live",
-		"start" : "11/12/2018",
-		"end" : "11/14/2018",
-		"location" : "Laguna Beach, CA",
-		"type" : "conference",
-		"website" : "https://dlive.wsj.com/laguna/",
-		"logo" : "https://images.dowjones.com/wp-content/uploads/sites/121/2018/09/11181051/WSJ-Tech-D_Live-RGB-KO.png"
+    "name": "The Wall Street Journal D.Live",
+    "start": "11/12/2018",
+    "end": "11/14/2018",
+    "location": "Laguna Beach, CA",
+    "type": "conference",
+    "website": "https://dlive.wsj.com/laguna/",
+    "logo": "https://images.dowjones.com/wp-content/uploads/sites/121/2018/09/11181051/WSJ-Tech-D_Live-RGB-KO.png"
   },
   {
-		"name" : "InfoSecurity",
-		"start" : "11/14/2018",
-		"end" : "11/15/2018",
-		"location" : "New York",
-		"type" : "conference",
-		"website" : "https://www.infosecuritynorthamerica.com/",
-		"logo" : "https://www.infosecuritynorthamerica.com/RXUK/RXUK_InfosecurityNorthAmerica/images/logos/main/INFUS_360x180_Logo.png"
+    "name": "InfoSecurity",
+    "start": "11/14/2018",
+    "end": "11/15/2018",
+    "location": "New York",
+    "type": "conference",
+    "website": "https://www.infosecuritynorthamerica.com/",
+    "logo": "https://www.infosecuritynorthamerica.com/RXUK/RXUK_InfosecurityNorthAmerica/images/logos/main/INFUS_360x180_Logo.png"
   },
   {
-		"name" : "AWS Re:Invent",
-		"start" : "11/26/2018",
-		"end" : "11/30/2018",
-		"location" : "Las Vegas",
-		"type" : "conference",
-		"website" : "https://reinvent.awsevents.com/",
-		"logo" : "https://s3-ap-northeast-1.amazonaws.com/round-and-round/wp-content/uploads/2017/10/07123335/aws_new_logo.png"
+    "name": "AWS Re:Invent",
+    "start": "11/26/2018",
+    "end": "11/30/2018",
+    "location": "Las Vegas",
+    "type": "conference",
+    "website": "https://reinvent.awsevents.com/",
+    "logo": "https://s3-ap-northeast-1.amazonaws.com/round-and-round/wp-content/uploads/2017/10/07123335/aws_new_logo.png"
   },
   {
-		"name" : "Gartner Application Strategies & Solutions Summit",
-		"start" : "11/27/2018",
-		"end" : "11/29/2018",
-		"location" : "Las Vegas",
-		"type" : "conference",
-		"website" : "https://www.gartner.com/en/conferences/na/applications-us",
-		"logo" : "https://emtemp.gcom.cloud/ngw/eventassets/en/conferences/common/images/gartnerlogo@2x.png"
+    "name": "Gartner Application Strategies & Solutions Summit",
+    "start": "11/27/2018",
+    "end": "11/29/2018",
+    "location": "Las Vegas",
+    "type": "conference",
+    "website": "https://www.gartner.com/en/conferences/na/applications-us",
+    "logo": "https://emtemp.gcom.cloud/ngw/eventassets/en/conferences/common/images/gartnerlogo@2x.png"
   },
   {
-		"name" : "HPE Discover 2018",
-		"start" : "11/27/2018",
-		"end" : "11/29/2018",
-		"location" : "Madrid",
-		"type" : "conference",
-		"website" : "https://www.hpe.com/events/discover/",
-		"logo" : "https://www.hpe.com/events/discover/content/images/HPE_Discover_2018.png"
-	}
+    "name": "HPE Discover 2018",
+    "start": "11/27/2018",
+    "end": "11/29/2018",
+    "location": "Madrid",
+    "type": "conference",
+    "website": "https://www.hpe.com/events/discover/",
+    "logo": "https://www.hpe.com/events/discover/content/images/HPE_Discover_2018.png"
+  },
+  {
+    "name": "Neo Blockchain Hackathon",
+    "start": "11/03/2018",
+    "end": "11/04/2018",
+    "location": "Zurich",
+    "type": "hackathon",
+    "website": "https://www.eventbrite.co.uk/e/neo-blockchain-hackathon-zurich-tickets-50528005625",
+    "logo": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F51157408%2F246280513738%2F1%2Foriginal.jpg?h=150&w=300&auto=compress&rect=0%2C220%2C4000%2C2000&s=e40a7c6b9c4d69006548105ed459c41b"
+  },
+  {
+    "name": "Blueark Challenge",
+    "start": "11/09/2018",
+    "end": "11/10/2018",
+    "location": "Valais",
+    "type": "hackathon",
+    "website": "https://www.blueark-challenge.ch/",
+    "logo": "https://res.cloudinary.com/ideation/image/upload/dpr_auto,w_470/lodtfrlw5qcfd6nsxdla"
+  },
+  {
+    "name": "McKinsey Datathon: The City Cup",
+    "start": "11/17/2018",
+    "end": "11/17/2018",
+    "location": "Zurich",
+    "type": "hackathon",
+    "website": "https://www.mckinsey.com/Careers/experienced-professionals/analytics-city-cup",
+    "logo": "https://res.cloudinary.com/ideation/image/upload/vjx33qmpamkhyqydb4mp"
+  },
+  {
+    "name": "BaselHack 2018",
+    "start": "11/24/2018",
+    "end": "11/25/2018",
+    "location": "Basel",
+    "type": "hackathon",
+    "website": "https://www.baselhack.ch/",
+    "logo": "https://www.baselhack.ch/frontend/images/backgrounds/home.png"
+  }
 ]
