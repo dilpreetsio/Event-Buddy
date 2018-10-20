@@ -1,0 +1,11 @@
+[
+  {
+    "name" : "IBM Interconnect",
+		"start" : "12/02/2019",
+		"end" : "15/02/2019",
+		"location" : "San Francisco",
+		"type" : "conference",
+		"website" : "https://www.ibm.com/events/think/",
+		"logo" : "https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"
+  }
+]
