@@ -1,0 +1,11 @@
+.alphabetCircle {
+  border-radius: 50%;
+  width: 85px;
+  height: 85px;
+  padding: 18px 5px;
+  background: #3a8cce;
+  border: 2px solid #666;
+  color: white;
+  text-align: center;
+  font: 32px Lato,'Helvetica Neue';
+}

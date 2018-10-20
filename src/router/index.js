@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import 'semantic-ui-css/semantic.min.css'
+import '../stylesheets/event.css'
 import Router from 'vue-router'
 import Index from '@/components/index'
 
