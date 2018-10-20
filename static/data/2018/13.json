@@ -1,0 +1,11 @@
+[
+  {
+		"name" : "Angular November Meetup",
+		"start" : "20/11/2018",
+		"end" : "20/11/2018",
+		"location" : "New York",
+		"type" : "conference",
+		"website" : "https://www.meetup.com/AngularNYC/events/255304192/",
+		"logo" : "https://angular.io/assets/images/logos/angular/angular.png"
+  },
+]
