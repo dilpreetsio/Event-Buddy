@@ -1,0 +1,29 @@
+[
+  {
+		"name" : "AI World Conference & Expo",
+		"start" : "12/03/2018",
+		"end" : "12/05/2018",
+		"location" : "Boston",
+		"type" : "conference",
+		"website" : "https://aiworld.com/",
+		"logo" : "https://aiworld.com/images/librariesprovider28/template-images/18/nav-logo-aiw.png"
+  },
+  {
+		"name" : "CIO Perspectives",
+		"start" : "12/05/2018",
+		"end" : "12/05/2018",
+		"location" : "Houston",
+		"type" : "conference",
+		"website" : "http://www.cioperspectives.com/ehome/index.php?eventid=295657&",
+		"logo" : "http://www.eiseverywhere.com/image.php?acc=562&id=929236"
+  },
+  {
+		"name" : "Raleigh CIO Forum",
+		"start" : "12/05/2018",
+		"end" : "12/06/2018",
+		"location" : "Durham, N.C",
+		"type" : "conference",
+		"website" : "https://www.premierconnects.com/events/raleighcioforum/index.php",
+		"logo" : "https://www.premierconnects.com/events/raleighcioforum/img/logo.png"
+	}
+]
