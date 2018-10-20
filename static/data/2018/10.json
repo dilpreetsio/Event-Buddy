@@ -16,5 +16,23 @@
 		"type" : "conference",
 		"website" : "https://in.pycon.org/2018/",
 		"logo" : "https://in.pycon.org/2018/img/banner-logo.png"
+	},
+  {
+		"name" : "Oracle OpenWorld",
+		"start" : "10/22/2018",
+		"end" : "10/25/2018",
+		"location" : "San Francisco",
+		"type" : "conference",
+		"website" : "https://www.oracle.com/openworld/index.html",
+		"logo" : "https://www.oracle.com/a/evt/img/u20-oow18-logo.png"
+	},
+  {
+		"name" : "Dare Mighty Things",
+		"start" : "10/29/2018",
+		"end" : "10/29/2018",
+		"location" : "Chicago",
+		"type" : "conference",
+		"website" : "http://daremightythings.co/",
+		"logo" : "http://daremightythings.co/img/white-md.png"
 	}
 ]
