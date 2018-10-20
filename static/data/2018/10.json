@@ -34,5 +34,14 @@
 		"type" : "conference",
 		"website" : "http://daremightythings.co/",
 		"logo" : "http://daremightythings.co/img/white-md.png"
-	}
+	},
+  	{
+		 "name": "Talkdesk",
+		 "start": "29/10/2018",
+		 "end": "29/10/2018",
+		 "location": "Porto, Portugal",
+		 "type": "hackathon",
+		 "website": "https://www.eventbrite.com/e/hacktoberfest-porto-tickets-51409133101",
+		 "logo": "https://www.talkdesk.com/app/themes/talkdesk-com/assets/images/talkdesk-logo.svg"
+  }
 ]
