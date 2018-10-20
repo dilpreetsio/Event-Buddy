@@ -6,6 +6,7 @@
           <div class="ui column four wide">
             <img v-if="event.logo" class="ui tiny circular image fluid" v-bind:src="event.logo" v-bind:alt="event.name">
             <img v-else class="ui tiny circular image fluid" src="../assets/icon.png">
+            <div v-on:click="generateICS($event, event)">Add to calendar</div>
           </div>
           <div class="ui column twelve wide data">
             <h3 class="ui header">
@@ -28,8 +29,20 @@
 
 <script>
 
+import { downloadICS } from '../services/ics-service'
+
 export default {
-  props: ['event']
+  props: ['event'],
+  methods: {
+    generateICS(e, event) {
+      e.preventDefault()
+      try {
+        downloadICS(event)
+      } catch (error) {
+        alert('Could not create calendar event: ' + error)
+      }
+    }
+  }
 }
 </script>
 
