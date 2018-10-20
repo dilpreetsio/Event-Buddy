@@ -9,6 +9,15 @@
 		"logo" : "https://staging.hackjunction.com/wp-content/uploads/2018/06/junctionx_globe.png"
   },
   {
+		"name" : "dotJS",
+		"start" : "11/8/2018",
+		"end" : "11/9/2018",
+		"location" : "Paris",
+		"type" : "conference",
+		"website" : "https://2018.dotjs.io/",
+		"logo" : "https://www.dotjs.io/static/images/logo-dotjs.png"
+	},
+  {
 		"name" : "The Wall Street Journal D.Live",
 		"start" : "11/12/2018",
 		"end" : "11/14/2018",
@@ -52,5 +61,5 @@
 		"type" : "conference",
 		"website" : "https://www.hpe.com/events/discover/",
 		"logo" : "https://www.hpe.com/events/discover/content/images/HPE_Discover_2018.png"
-	}
+  }
 ]
