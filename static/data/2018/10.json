@@ -19,8 +19,8 @@
 	},
   {
 		"name" : "Oracle OpenWorld",
-		"start" : "10/22/2018",
-		"end" : "10/25/2018",
+		"start" : "22/10/2018",
+		"end" : "25/10/2018",
 		"location" : "San Francisco",
 		"type" : "conference",
 		"website" : "https://www.oracle.com/openworld/index.html",
@@ -28,8 +28,8 @@
 	},
   {
 		"name" : "Dare Mighty Things",
-		"start" : "10/29/2018",
-		"end" : "10/29/2018",
+		"start" : "29/10/2018",
+		"end" : "29/10/2018",
 		"location" : "Chicago",
 		"type" : "conference",
 		"website" : "http://daremightythings.co/",
