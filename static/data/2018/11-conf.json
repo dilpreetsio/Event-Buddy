@@ -43,5 +43,14 @@
 		"type" : "Conference",
 		"website" : "https://conferences.sigcomm.org/hotnets/2018/",
 		"logo" : "https://conferences.sigcomm.org/hotnets/2018/logos/acm-logo.jpg"
+	},
+	{
+	  "name": "Devoxx Ukraine 2018",
+	  "start": "11/23/2018",
+	  "end": "11/24/2018",
+	  "location": "Kiyv, Ukraine",
+	  "type": "Conference",
+	  "website": "https://devoxx.org.ua/",
+	  "logo": "https://devoxx.org.ua/wp-content/uploads/2018/05/Logo_transperant.png"
 	}
 ]
