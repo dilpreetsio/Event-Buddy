@@ -1,0 +1,47 @@
+[
+	{
+		"name" : "The 4th Annual International Conference on Recent Trends in Computer Science and Electronics",
+		"start" : "01/03/2019",
+		"end" : "01/06/2019",
+		"location" : "Honolulu, Hawaii",
+		"type" : "conference",
+		"website" : "http://www.rtcse.org/",
+		"logo" : "https://miro.medium.com/fit/c/240/240/1*fdtmo9HNjCSJc6ZUlFkcXQ.jpeg"
+	},
+	{
+		"name" : "Cybertech",
+		"start" : "01/28/2019",
+		"end" : "01/30/2019",
+		"location" : "Tel Aviv, Israel",
+		"type" : "conference",
+		"website" : "http://www.cybertechisrael.com/",
+		"logo" : "http://www.cybertechisrael.com/sites/cyber2019/themes/cyber2019/images/header-logo.png"
+	},
+	{
+		"name" : "NDC London",
+		"start" : "01/28/2019",
+		"end" : "02/01/2019",
+		"location" : "London, United Kingdom",
+		"type" : "conference",
+		"website" : "https://ndc-london.com/",
+		"logo" : "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F46006549%2F61775318279%2F1%2Foriginal.jpg?w=800&auto=compress&rect=100%2C0%2C800%2C400&s=cc858ea7c0818676b26c87bcdd40e93f"
+	},
+	{
+		"name" : "DesignCon",
+		"start" : "01/29/2019",
+		"end" : "01/31/2019",
+		"location" : "Santa Clara, California",
+		"type" : "conference",
+		"website" : "https://designcon.com/",
+		"logo" : "https://designcon.com/sites/default/files/2019_DesignCon_logo_235x57.png"
+	},
+	{
+		"name" : "ITEXPO",
+		"start" : "01/29/2019",
+		"end" : "02/01/2019",
+		"location" : "Fort Lauderdale, Florida",
+		"type" : "conference",
+		"website" : "https://www.itexpo.com",
+		"logo" : "https://images.tmcnet.com/expo/itexpo-logo-2019.png"
+	}
+]
