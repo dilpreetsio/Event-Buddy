@@ -9,8 +9,8 @@
   },
   {
     "name": "The Wall Street Journal D.Live",
-    "start": "11/12/2018",
-    "end": "11/14/2018",
+    "start": "12/11/2018",
+    "end": "14/11/2018",
     "location": "Laguna Beach, CA",
     "type": "conference",
     "website": "https://dlive.wsj.com/laguna/",
@@ -18,8 +18,8 @@
   },
   {
     "name": "InfoSecurity",
-    "start": "11/14/2018",
-    "end": "11/15/2018",
+    "start": "14/11/2018",
+    "end": "15/11/2018",
     "location": "New York",
     "type": "conference",
     "website": "https://www.infosecuritynorthamerica.com/",
@@ -27,8 +27,8 @@
   },
   {
     "name": "AWS Re:Invent",
-    "start": "11/26/2018",
-    "end": "11/30/2018",
+    "start": "26/11/2018",
+    "end": "30/11/2018",
     "location": "Las Vegas",
     "type": "conference",
     "website": "https://reinvent.awsevents.com/",
@@ -36,8 +36,8 @@
   },
   {
     "name": "Gartner Application Strategies & Solutions Summit",
-    "start": "11/27/2018",
-    "end": "11/29/2018",
+    "start": "27/11/2018",
+    "end": "29/11/2018",
     "location": "Las Vegas",
     "type": "conference",
     "website": "https://www.gartner.com/en/conferences/na/applications-us",
@@ -45,8 +45,8 @@
   },
   {
     "name": "HPE Discover 2018",
-    "start": "11/27/2018",
-    "end": "11/29/2018",
+    "start": "27/11/2018",
+    "end": "29/11/2018",
     "location": "Madrid",
     "type": "conference",
     "website": "https://www.hpe.com/events/discover/",
@@ -54,8 +54,8 @@
   },
   {
     "name": "Neo Blockchain Hackathon",
-    "start": "11/03/2018",
-    "end": "11/04/2018",
+    "start": "03/11/2018",
+    "end": "04/11/2018",
     "location": "Zurich",
     "type": "hackathon",
     "website": "https://www.eventbrite.co.uk/e/neo-blockchain-hackathon-zurich-tickets-50528005625",
@@ -63,8 +63,8 @@
   },
   {
     "name": "Blueark Challenge",
-    "start": "11/09/2018",
-    "end": "11/10/2018",
+    "start": "09/11/2018",
+    "end": "10/11/2018",
     "location": "Valais",
     "type": "hackathon",
     "website": "https://www.blueark-challenge.ch/",
@@ -72,8 +72,8 @@
   },
   {
     "name": "McKinsey Datathon: The City Cup",
-    "start": "11/17/2018",
-    "end": "11/17/2018",
+    "start": "17/11/2018",
+    "end": "17/11/2018",
     "location": "Zurich",
     "type": "hackathon",
     "website": "https://www.mckinsey.com/Careers/experienced-professionals/analytics-city-cup",
@@ -81,11 +81,20 @@
   },
   {
     "name": "BaselHack 2018",
-    "start": "11/24/2018",
-    "end": "11/25/2018",
+    "start": "24/11/2018",
+    "end": "25/11/2018",
     "location": "Basel",
     "type": "hackathon",
     "website": "https://www.baselhack.ch/",
     "logo": "https://www.baselhack.ch/frontend/images/backgrounds/home.png"
+  },
+  {
+    "name": "Performance.now()",
+    "start": "08/11/2018",
+    "end": "09/11/2018",
+    "location": "Amsterdam",
+    "type": "conference",
+    "website": "https://perfnow.nl/",
+    "logo": "https://perfnow.nl/_img/logo.svg"
   }
 ]
