@@ -16,7 +16,15 @@
       "type" : "Hackathon",
       "website" : "https://starthack.ch/wp",
       "logo" : "https://starthack.ch/wp-content/uploads/2015/12/Start_Hack.png"
+    },
+    {
+      "name" : "585th International Conference on Applied Physics and Mathematics ICAPM",
+      "start" : "03/02/2019",
+      "end" : "03/03/2019",
+      "location" : "Berlin, Germany",
+      "type" : "Conference",
+      "website" : "http://theiier.org/Conference2019/Germany/2/ICAPM/",
+      "logo" : "http://theiier.org/images/logo.png"
     }
-  
 ]
 
