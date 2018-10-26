@@ -43,5 +43,14 @@
 		"type" : "Conference",
 		"website" : "https://conferences.sigcomm.org/hotnets/2018/",
 		"logo" : "https://conferences.sigcomm.org/hotnets/2018/logos/acm-logo.jpg"
+	},
+	{
+		"name" : "The 11th International Conference on Machine Vision ICMV 2018",
+		"start" : "01/11/2018",
+		"end" : "03/11/2018",
+		"location" : "Munich, Germany",
+		"type" : "Conference",
+		"website" : "http://icmv.org/",
+		"logo" : "http://icmv.org/images/logo.png"
 	}
 ]
