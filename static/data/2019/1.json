@@ -70,5 +70,14 @@
 		"type" : "hackathon",
 		"website" : "https://www.hackdfw.com/",
 		"logo" : "https://www.hackdfw.com/splash-assets/img/hackdfw-stacked.png"
+	},
+	{
+		"name" : "India Smart Utility Week 2019",
+		"start" : "03/12/2019",
+		"end" : "03/16/2019",
+		"location" : "New Delhi, India",
+		"type" : "Conference",
+		"website" : "http://www.isgw.in/",
+		"logo" : "http://www.isgw.in/wp-content/uploads/2018/10/banner-ISUW-1.png"
 	}
 ]
