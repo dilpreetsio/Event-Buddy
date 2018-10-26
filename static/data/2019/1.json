@@ -61,5 +61,32 @@
 		"type" : "hackathon",
 		"website" : "https://www.starterhacks.ca/",
 		"logo" : "https://www.starterhacks.ca/assets/img/logo.png"
+	},
+	{
+		"name" : "ConUHacks",
+		"start" : "01/26/2019",
+		"end" : "01/27/2019",
+		"location" : "Montreal, Quebec. Canada",
+		"type" : "hackathon",
+		"website" : "https://conuhacks.io/",
+		"logo" : "https://conuhacks.io/c38617498a6bb0d2c1bf31f3d0a23ae4.png"
+	},
+	{
+		"name" : "DragonHacks",
+		"start" : "01/05/2019",
+		"end" : "01/06/2019",
+		"location" : "Philadelphia, Pennsylvania. United States",
+		"type" : "hackathon",
+		"website" : "https://dragonhacks2019.devpost.com/",
+		"logo" : "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/000/332/769/datas/medium.png"
+	},
+	{
+		"name" : "Hack the Night",
+		"start" : "01/25/2019",
+		"end" : "01/27/2019",
+		"location" : "Sunnyvale, California. United States",
+		"type" : "hackathon",
+		"website" : "https://www.htng.org/default.aspx",
+		"logo" : "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/000/686/884/datas/full_width.png"
 	}
 ]
