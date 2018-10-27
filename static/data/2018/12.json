@@ -25,5 +25,14 @@
 		"type" : "conference",
 		"website" : "https://www.premierconnects.com/events/raleighcioforum/index.php",
 		"logo" : "https://www.premierconnects.com/events/raleighcioforum/img/logo.png"
+	},
+	{
+		"name" : "TFCR International Conference on Advanced Research in Globalization Issues in Management, Culture, Social Sciences Business & Economic",
+		"start" : "12/01/2018",
+		"end" : "12/02/2018",
+		"location" : "Istanbul, Turkey",
+		"type" : "conference",
+		"website" : " http://turfcr.com/2018-december-gcsbe-turkey-event/",
+		"logo" : "http://turfcr.com/wp-content/uploads/2017/09/TFCR-logo.png"
 	}
 ]
