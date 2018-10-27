@@ -34,5 +34,14 @@
 		"type" : "conference",
 		"website" : " http://turfcr.com/2018-december-gcsbe-turkey-event/",
 		"logo" : "http://turfcr.com/wp-content/uploads/2017/09/TFCR-logo.png"
+	},
+	{
+		"name" : "ISERD – 497th International Conference on Science and Innovative Engineering ICSIE",
+		"start" : "12/01/2018",
+		"end" : "12/02/2018",
+		"location" : "Kuala Lumpur, Malaysia",
+		"type" : "conference",
+		"website" : "http://iserd.co/Conference2018/Malaysia/4/ICSIE/",
+		"logo" : "http://iserd.co/ISERD-INCLUDE-2018/images/logo.png"
 	}
 ]
