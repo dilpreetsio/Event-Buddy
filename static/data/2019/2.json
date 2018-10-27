@@ -7,5 +7,14 @@
 		"type" : "conference",
 		"website" : "https://www.ibm.com/events/think/",
 		"logo" : "https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"
+	},
+	{
+    "name" : "Academics World 535th International Conference on Recent Advances in Medical and Health Sciences ICRAMHS",
+		"start" : "01/02/2019",
+		"end" : "02/02/2019",
+		"location" : "Dublin, Ireland",
+		"type" : "conference",
+		"website" : "http://www.academicsworld.org/Conference2019/Ireland/1/ICRAMHS/",
+		"logo" : "http://academicsworld.org/ACADEMICSWORLD-INCLUDE-2018/images/logo.png"
   }
 ]
