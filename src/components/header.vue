@@ -3,11 +3,11 @@
     <img class="logo" src="../assets/logo.png">
     <github-buttons-component></github-buttons-component>
     <div class="month column sixteen wide ui row">
-      <button class="circular ui icon button" v-on:click="decrementMonth()">
+      <button class="circular ui icon button" @click="decrementMonth()">
         <i class="angle left icon"></i>
       </button>
       {{month}} 
-      <button class="circular ui icon button" v-on:click="incrementMonth()">
+      <button class="circular ui icon button" @click="incrementMonth()">
         <i class="angle right icon"></i>
       </button>
     </div>
@@ -25,24 +25,29 @@ export default {
   data () {
     return {
       monthOffset: 0,
-      month: moment().add(0, 'months').format('MMMM YYYY')
+      month: moment().add(0, 'months').format('MMMM YYYY'),
+      year: null
     }
   },
   methods: {
     incrementMonth: function () {
       this.monthOffset += 1
       this.month = moment().add(this.monthOffset, 'months').format('MMMM YYYY')
+      this.year = moment().add(this.monthOffset, 'months').format('YYYY')
       this.$bus.$emit('dateUpdate', this.monthOffset)
     },
     decrementMonth: function () {
-      this.monthOffset -= 1
-      this.month = moment().add(this.monthOffset, 'months').format('MMMM YYYY')
-      this.$bus.$emit('dateUpdate', this.monthOffset)
+      this.year = moment().add(this.monthOffset-1, 'months').format('YYYY')
+      if (this.year && this.year >= 2017) {
+        this.monthOffset -= 1
+        this.month = moment().add(this.monthOffset, 'months').format('MMMM YYYY')
+        this.$bus.$emit('dateUpdate', this.monthOffset)
+      }
     }
   }
 }
-
 </script>
+
 <style scoped>
 .ui.row {
   text-align: center;
@@ -62,5 +67,4 @@ export default {
 .month {
   font-size: 1.4em;
 }
-
 </style>
