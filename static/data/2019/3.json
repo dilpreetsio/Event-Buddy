@@ -1,0 +1,22 @@
+[
+  {
+    "name" : "Adobe Summit",
+    "start" : "24/03/2019",
+    "end" : "28/03/2019",
+    "location" : "Las Vegas",
+    "type" : "conference",
+    "website" : "https://summit.adobe.com/na/",
+    "logo" : "https://summit.adobe.com/na/_assets/images/global/summit-logo.png"
+  },
+    {
+      "name" : "Start Hack",
+      "start" : "03/08/2019",
+      "end" : "03/10/2019",
+      "location" : "St.Gallen, Switzerland",
+      "type" : "Hackathon",
+      "website" : "https://starthack.ch/wp",
+      "logo" : "https://starthack.ch/wp-content/uploads/2015/12/Start_Hack.png"
+    }
+  
+]
+

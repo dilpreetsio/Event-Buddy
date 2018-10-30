@@ -5,9 +5,22 @@
 </template>
 
 <script>
+
+// Create a global event bus to emit/listen to events across all vues
+import Vue from 'vue'
+
 export default {
   name: 'app'
 }
+const EventBus = new Vue()
+
+Object.defineProperties(Vue.prototype, {
+  $bus: {
+    get: function () {
+      return EventBus
+    }
+  }
+})
 </script>
 
 <style>

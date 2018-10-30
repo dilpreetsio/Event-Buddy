@@ -52,5 +52,14 @@
     "type"     : "conference",
     "website"  : "http://reactalicante.es/",
     "logo"     : "https://pbs.twimg.com/profile_images/906151350588887040/XC5RD0t-_400x400.jpg"
+  },
+  {
+    "name"     : "Nativescript Developer Day",
+    "start"    : "18/09/2017",
+    "end"      : "19/09/2017",
+    "location" : "New York, USA",
+    "type"     : "conference",
+    "website"  : "http://developerday.nativescript.org/",
+    "logo"     : "http://developerday.nativescript.org/assets/images/logo.png"
   }
 ]

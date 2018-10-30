@@ -1,7 +1,7 @@
 <template>
-  <div class="footer ui row">
+  <footer class="page-footer font-small footer ui row">
     <h3><a href="https://github.com/geekyd">Made with ❤️ by geekyd</a></h3>
-  </div>
+  </footer>
 </template>
 <script>
 export default {

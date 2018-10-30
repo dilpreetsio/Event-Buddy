@@ -1,0 +1,38 @@
+[
+  {
+    "name" : "IBM Interconnect",
+		"start" : "12/02/2019",
+		"end" : "15/02/2019",
+		"location" : "San Francisco",
+		"type" : "conference",
+		"website" : "https://www.ibm.com/events/think/",
+		"logo" : "https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"
+	},
+	{
+    "name" : "Academics World 535th International Conference on Recent Advances in Medical and Health Sciences ICRAMHS",
+		"start" : "01/02/2019",
+		"end" : "02/02/2019",
+		"location" : "Dublin, Ireland",
+		"type" : "conference",
+		"website" : "http://www.academicsworld.org/Conference2019/Ireland/1/ICRAMHS/",
+		"logo" : "http://academicsworld.org/ACADEMICSWORLD-INCLUDE-2018/images/logo.png"
+	},
+	{
+    "name" : "International Conference on Advanced Technologies And Treatments for Diabetes",
+		"start" : "20/02/2019",
+		"end" : "23/02/2019",
+		"location" : "Berlin, Germany",
+		"type" : "conference",
+		"website" : "http://go.evvnt.com/220467-1?pid=5123",
+		"logo" : "https://attd.kenes.com/2019/SiteAssets/top.jpg"
+	},
+	{
+    "name" : "Global Cancer Immunotherapy Summit",
+		"start" : "21/02/2019",
+		"end" : "22/02/2019",
+		"location" : "Berlin, Germany",
+		"type" : "conference",
+		"website" : "http://sharonatinternational.com",
+		"logo" : "https://sharonatinternational.com/wp-content/uploads/2017/02/SharonatInternational_Logo_NoTagline_Dark.png"
+  }
+]
