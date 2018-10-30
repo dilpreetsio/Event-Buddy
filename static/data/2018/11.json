@@ -105,5 +105,14 @@
     "type": "conference",
     "website": "https://www.aiconf.com.ua/en/",
     "logo": "https://www.aiconf.com.ua/wp-content/themes/aiconf/styles/imgs/svg/xlogo.png.pagespeed.ic.n_NGHyIErY.png"
+  },
+  {
+    "name": "Italian Community Managers Summit",
+    "start": "10/11/2018",
+    "end": "10/11/2018",
+    "location": "Rome, Italy",
+    "type": "conference",
+    "website": "https://italiancommunitymanagers.it/",
+    "logo": "https://italiancommunitymanagers.it/assets/img/logo.png"
   }
 ]
