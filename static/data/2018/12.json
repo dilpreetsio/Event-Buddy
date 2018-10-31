@@ -43,5 +43,14 @@
 		"type" : "conference",
 		"website" : "http://iserd.co/Conference2018/Malaysia/4/ICSIE/",
 		"logo" : "http://iserd.co/ISERD-INCLUDE-2018/images/logo.png"
-	}
+	},
+  {
+    "name": "The Lead Developer Austin",
+    "start": "12/06/2018",
+    "end": "12/06/2018",
+    "location": "Austin, TX",
+    "type": "conference",
+    "website": "https://austin2018.theleaddeveloper.com/",
+    "logo": "https://austin2018.theleaddeveloper.com/perch/resources/lead-dev-logo-w800.png"
+  }
 ]
