@@ -114,5 +114,14 @@
     "type": "conference",
     "website": "https://italiancommunitymanagers.it/",
     "logo": "https://italiancommunitymanagers.it/assets/img/logo.png"
+  },
+  {
+    "name": "Austin Design Week",
+    "start": "05/11/2018",
+    "end": "09/11/2018",
+    "location": "Austin, Texas",
+    "type": "conference",
+    "website": "https://austindesignweek.org/",
+    "logo": "https://static.spacecrafted.com/db3f4f02d4dc4d3dbdeeaafede42e1df/i/eb219522246947cdb311e51e9fc1af0f/1/PYTVJ3JH1dSSeU6uiK5kQhQriQ"
   }
 ]
